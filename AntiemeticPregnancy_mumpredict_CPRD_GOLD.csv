@@ -1,0 +1,306 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+85,Prochlorperazine 5mg tablets Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+455,Metoclopramide 10mg tablets Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+646,Cyclizine 50mg tablets Cyclizine hydrochloride 50mg Tablet Oral,04060000,04065100,04065200,null,CPRD_GOLD
+3494,Promethazine hydrochloride 25mg tablets Promethazine hydrochloride 25mg Tablet Oral,04010100,04065400,null,null,CPRD_GOLD
+588,Chlorpromazine 25mg tablets Chlorpromazine hydrochloride 25mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+3348,Chlorpromazine 50mg tablets Chlorpromazine hydrochloride 50mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+4769,Prochlorperazine 3mg buccal tablets Prochlorperazine maleate 3mg Buccal tablet Buccal,04065400,null,null,null,CPRD_GOLD
+5561,Promethazine hydrochloride 10mg tablets Promethazine hydrochloride 10mg Tablet Oral,03040102,04010100,04065400,null,CPRD_GOLD
+1998,Promethazine 5mg/5ml oral solution sugar free Promethazine hydrochloride 1mg/1ml Oral solution Oral,03040102,04010100,04065400,null,CPRD_GOLD
+1610,Phenergan 5mg/5ml elixir (Sanofi) Promethazine hydrochloride 1mg/1ml Oral solution Oral,03040102,04010100,04065400,null,CPRD_GOLD
+2474,Chlorpromazine 10mg tablets Chlorpromazine hydrochloride 10mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+3246,Stemetil 12.5mg/ml Injection (Castlemead Healthcare Ltd) Prochlorperazine Mesilate 12.5mg/ml Injection Intramuscular Deep Injection,04020100,40120000,null,null,CPRD_GOLD
+2814,Largactil 25mg Tablet (Hawgreen Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,04020100,40120000,null,null,CPRD_GOLD
+405,Metoclopramide 15mg modified-release capsules Metoclopramide hydrochloride 15mg Modified-release capsule Oral,00000000,null,null,null,CPRD_GOLD
+35046,Metoclopramide 10mg/2ml solution for injection ampoules Metoclopramide hydrochloride 5mg/1ml Solution for injection Intravenous/Intramuscular,04065500,null,null,null,CPRD_GOLD
+1724,Maxolon 5mg/5ml Oral solution (Shire Pharmaceuticals Ltd) Metoclopramide hydrochloride 1mg/1ml Oral solution Oral,01020300,04065500,null,null,CPRD_GOLD
+6036,Prochlorperazine 5mg/5ml oral solution Prochlorperazine mesilate 1mg/1ml Oral solution Oral,04020101,04065400,null,null,CPRD_GOLD
+179,Maxolon 10mg/2ml Injection (Shire Pharmaceuticals Ltd) Metoclopramide hydrochloride 5mg/1ml Solution for injection Intravenous/Intramuscular,01020300,04065500,null,null,CPRD_GOLD
+13607,Proziere 5mg tablets (Ashbourne Pharmaceuticals Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+32876,Prochlorperazine 5mg tablets (Teva UK Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+31696,Ondansetron 4mg/2ml solution for injection ampoules Ondansetron hydrochloride 2mg/1ml Solution for injection Intravenous/Intramuscular,04065600,null,null,null,CPRD_GOLD
+35437,Phenergan 25mg/1ml solution for injection ampoules (Sanofi) Promethazine hydrochloride 25mg/1ml Solution for injection Intramuscular/Intravenous,03040102,04010100,null,null,CPRD_GOLD
+81762,Chlorpromazine 12.5mg/5ml oral suspensionChlorpromazine hydrochloride2.5mg/1mlOral suspensionOral ,04020101,null,null,null,CPRD_GOLD
+12356,LARGACTIL 50 MG INJ    ,00000000,null,null,null,CPRD_GOLD
+19033,CHLORPROMAZINE HCl 50 MG INJ    ,00000000,null,null,null,CPRD_GOLD
+8066,Motilium 30mg suppositories (Zentiva) Domperidone 30mg Suppository Rectal,04065500,null,null,null,CPRD_GOLD
+15093,MAXOLON 500 MG INJ    ,00000000,null,null,null,CPRD_GOLD
+20806,METOCLOPRAMIDE SR    ,00000000,null,null,null,CPRD_GOLD
+14373,PROMETHAZINE 50 MG INJ    ,00000000,null,null,null,CPRD_GOLD
+12135,CYCLIZINE 50 MG SUP    ,00000000,null,null,null,CPRD_GOLD
+29216,Domperidone 10mg tablets (Zentiva) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+45764,Ondansetron 8mg orodispersible tablets Ondansetron 8mg Orodispersible tablet Oral,04065600,null,null,null,CPRD_GOLD
+1759,METOCLOPRAMIDE 5 MG TAB    ,00000000,null,null,null,CPRD_GOLD
+54429,Stemetil 5mg tablets (Waymade Healthcare Plc) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+34668,Chlorpromazine 25mg tablets (Teva UK Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+59973,Cyclizine 50mg tablets (DE Pharmaceuticals) Cyclizine hydrochloride 50mg Tablet Oral,04060000,04065100,04065200,null,CPRD_GOLD
+74088,Chlorpromazine 25mg suppositories Chlorpromazine hydrochloride 25mg Suppository Rectal,04020101,null,null,null,CPRD_GOLD
+1396,Domperidone 1mg/ml oral suspension sugar free Domperidone 1mg/1ml Oral suspension Oral,04065500,null,null,null,CPRD_GOLD
+19002,Largactil 100mg Suppository (Rhone-Poulenc Rorer Ltd) Chlorpromazine Hydrochloride 100mg Suppository Rectal,04020100,40120000,null,null,CPRD_GOLD
+25992,Metoclopramide 5mg/5ml oral solution sugar free (Sandoz Ltd) Metoclopramide hydrochloride 1mg/1ml Oral solution Oral,04065500,null,null,null,CPRD_GOLD
+55552,Cyclizine 50mg tablets (A A H Pharmaceuticals Ltd) Cyclizine hydrochloride 50mg Tablet Oral,04060000,04065100,04065200,null,CPRD_GOLD
+40001,Stemetil 5mg/5ml syrup (Sanofi) Prochlorperazine mesilate 1mg/1ml Oral solution Oral,04020101,04065400,null,null,CPRD_GOLD
+18986,PHENERGAN 50 MG INJ    ,00000000,null,null,null,CPRD_GOLD
+72167,Metoclopramide 10mg tablets (Almus Pharmaceuticals Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+7985,STEMETIL 2.5 MG SUP    ,00000000,null,null,null,CPRD_GOLD
+4892,Metoclopramide 5mg tablets Metoclopramide hydrochloride 5mg Tablet Oral,00000000,null,null,null,CPRD_GOLD
+53162,Metoclopramide 10mg tablets (Alliance Healthcare (Distribution) Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+34630,Chlorpromazine 50mg tablets (Thornton & Ross Ltd) Chlorpromazine hydrochloride 50mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+17227,Chloractil 25mg Tablet (DDSA Pharmaceuticals Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,04020100,40120000,null,null,CPRD_GOLD
+25994,Metoclopramide 5mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Metoclopramide hydrochloride 1mg/1ml Oral solution Oral,04065500,null,null,null,CPRD_GOLD
+34325,Metoclopramide 10mg tablets (A A H Pharmaceuticals Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+12214,Promethazine hydrochloride 25mg/ml injection Promethazine Hydrochloride 25mg/ml Injection Intravenous Injection,03040102,03040300,null,null,CPRD_GOLD
+24798,Ondansetron 8mg/4ml solution for injection ampoules Ondansetron hydrochloride 2mg/1ml Solution for injection Intravenous/Intramuscular,04065600,null,null,null,CPRD_GOLD
+62831,Cyclizine 50mg tablets (Morningside Healthcare Ltd) Cyclizine hydrochloride 50mg Tablet Oral,04060000,04065100,04065200,null,CPRD_GOLD
+1943,Avomine 25mg tablets (Manx Healthcare Ltd) Promethazine teoclate 25mg Tablet Oral,04065400,null,null,null,CPRD_GOLD
+31171,Chlorpromazine 50mg tablets (A A H Pharmaceuticals Ltd) Chlorpromazine hydrochloride 50mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+52464,Domperidone 1mg/ml oral suspension sugar free (A A H Pharmaceuticals Ltd) Domperidone 1mg/1ml Oral suspension Oral,04065500,null,null,null,CPRD_GOLD
+35898,Zofran Flexi-amp 8mg/4ml solution for injection ampoules (Novartis Pharmaceuticals UK Ltd) Ondansetron hydrochloride 2mg/1ml Solution for injection Intravenous/Intramuscular,04065600,null,null,null,CPRD_GOLD
+17832,Metoclopramide 30mg Modified-release capsule Metoclopramide Hydrochloride 30mg Modified-Release Capsule Oral,01020300,04065500,null,null,CPRD_GOLD
+31747,CHLORPROMAZINE HYDROCHLORIDE    ,00000000,null,null,null,CPRD_GOLD
+60908,Chlorpromazine 10mg capsules Chlorpromazine hydrochloride 10mg Capsule Oral,04020101,04065400,null,null,CPRD_GOLD
+73148,Prochlorperazine 5mg tablets (Bristol Laboratories Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+54458,Prochlorperazine 5mg Tablet (Teva UK Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020100,40120000,null,null,CPRD_GOLD
+65488,Metoclopramide 10mg/2ml solution for injection ampoules (Hameln Pharmaceuticals Ltd) Metoclopramide hydrochloride 5mg/1ml Solution for injection Intravenous/Intramuscular,04065500,null,null,null,CPRD_GOLD
+16567,Metoclopramide 100mg/20ml solution for injection ampoules Metoclopramide hydrochloride 5mg/1ml Solution for injection Intravenous,04065500,null,null,null,CPRD_GOLD
+14844,Maxolon High Dose 100mg/20ml solution for injection ampoules (Advanz Pharma) Metoclopramide hydrochloride 5mg/1ml Solution for injection Intravenous,04065500,null,null,null,CPRD_GOLD
+68102,Ondansetron 4mg/5ml oral solution sugar free (Waymade Healthcare Plc) Ondansetron hydrochloride 800microgram/1ml Oral solution Oral,04065600,null,null,null,CPRD_GOLD
+5550,Valoid 50mg tablets (Amdipharm Plc) Cyclizine hydrochloride 50mg Tablet Oral,04060000,04065100,04065200,null,CPRD_GOLD
+71070,Domperidone 1mg/ml oral suspension sugar free (Waymade Healthcare Plc) Domperidone 1mg/1ml Oral suspension Oral,04065500,null,null,null,CPRD_GOLD
+4235,Ondansetron 8mg tablets Ondansetron hydrochloride 8mg Tablet Oral,04065600,null,null,null,CPRD_GOLD
+17221,CHLORPROMAZINE HCl 10 MG INJ    ,00000000,null,null,null,CPRD_GOLD
+39887,Stemetil 5mg tablets (Sanofi) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+65246,Chlorpromazine 10mg/5ml oral suspension Chlorpromazine hydrochloride 2mg/1ml Oral suspension Oral,04020101,null,null,null,CPRD_GOLD
+17849,Vertigon spansule 15 15mg Spansule (GlaxoSmithKline Consumer Healthcare) Prochlorperazine Maleate 15mg Spansule Oral,04020100,40120000,null,null,CPRD_GOLD
+24243,STEMETIL    ,00000000,null,null,null,CPRD_GOLD
+19824,STEMETIL (1ML)    ,00000000,null,null,null,CPRD_GOLD
+1434,Prochlorperazine 5mg suppositories Prochlorperazine maleate 5mg Suppository Rectal,04020101,04065400,null,null,CPRD_GOLD
+9787,Zofran Melt 8mg oral lyophilisates (Novartis Pharmaceuticals UK Ltd) Ondansetron 8mg Oral lyophilisate Oral,04065600,null,null,null,CPRD_GOLD
+51551,Stemetil 5mg tablets (Mawdsley-Brooks & Company Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+44603,Motilium Instants 10mg orodispersible tablets (McNeil Products Ltd) Domperidone 10mg Orodispersible tablet Oral,04065500,null,null,null,CPRD_GOLD
+3716,Metoclopramide 15mg modified-release tablets Metoclopramide hydrochloride 15mg Modified-release tablet Oral,00000000,null,null,null,CPRD_GOLD
+64767,Cyclizine 50mg tablets (Actavis UK Ltd) Cyclizine hydrochloride 50mg Tablet Oral,04060000,04065100,04065200,null,CPRD_GOLD
+60169,Cyclizine 5mg/5ml oral suspension Cyclizine hydrochloride 1mg/1ml Oral suspension Oral,04060000,04065100,04065200,null,CPRD_GOLD
+66990,Prochlorperazine 3mg buccal tablets (Alliance Healthcare (Distribution) Ltd) Prochlorperazine maleate 3mg Buccal tablet Buccal,04065400,null,null,null,CPRD_GOLD
+32772,Prochlorperazine 5mg tablets (Mylan) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+512,Stemetil 5mg Tablet (Castlemead Healthcare Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020100,40120000,null,null,CPRD_GOLD
+14356,Stemetil 12.5mg/1ml solution for injection ampoules (Sanofi) Prochlorperazine mesilate 12.5mg/1ml Solution for injection Intramuscular,04020101,04065400,null,null,CPRD_GOLD
+39710,Maxolon 5mg/5ml syrup (Amdipharm Plc) Metoclopramide hydrochloride 1mg/1ml Oral solution Oral,04065500,null,null,null,CPRD_GOLD
+15475,CYCLIZINE 100 MG SUP    ,00000000,null,null,null,CPRD_GOLD
+77739,Promethazine hydrochloride 25mg tablets (A A H Pharmaceuticals Ltd) Promethazine hydrochloride 25mg Tablet Oral,04010100,04065400,null,null,CPRD_GOLD
+4434,Chlorpromazine 50mg/5ml oral solution Chlorpromazine hydrochloride 10mg/1ml Oral solution Oral,04020101,null,null,null,CPRD_GOLD
+54153,Cyclizine 50mg suppositories Cyclizine hydrochloride 50mg Suppository Rectal,04060000,04065100,04065400,null,CPRD_GOLD
+9077,Motilium 1mg/ml oral suspension (Zentiva) Domperidone 1mg/1ml Oral suspension Oral,04065500,null,null,null,CPRD_GOLD
+44186,Chlorpromazine 25mg/5ml oral solution (A A H Pharmaceuticals Ltd) Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,04020101,null,null,null,CPRD_GOLD
+43558,Domperidone 10mg tablets (PLIVA Pharma Ltd) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+32971,Vivadone 10mg tablets (Lexon (UK) Ltd) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+9913,Zofran 4mg/5ml syrup (Novartis Pharmaceuticals UK Ltd) Ondansetron hydrochloride 800microgram/1ml Oral solution Oral,04065600,null,null,null,CPRD_GOLD
+45644,Domperidone 10mg tablets (Sandoz Ltd) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+59220,Cyclizine 12.5mg/5ml oral solution Cyclizine hydrochloride 2.5mg/1ml Oral solution Oral,04060000,04065100,04065200,null,CPRD_GOLD
+32064,Prochlorperazine 5mg tablets (Actavis UK Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+71037,Cyclizine 50mg tablets (Alliance Healthcare (Distribution) Ltd) Cyclizine hydrochloride 50mg Tablet Oral,04060000,04065100,04065200,null,CPRD_GOLD
+74797,Buccastem 3mg tablets (DE Pharmaceuticals) Prochlorperazine maleate 3mg Buccal tablet Buccal,04065400,null,null,null,CPRD_GOLD
+55012,Largactil 10mg tablets (Sanofi) Chlorpromazine hydrochloride 10mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+17946,Gastromax 30mg Modified-release capsule (Pfizer Ltd) Metoclopramide Hydrochloride 30mg Modified-Release Capsule Oral,01020300,04065500,null,null,CPRD_GOLD
+67247,Largactil 50mg tablets (Waymade Healthcare Plc) Chlorpromazine hydrochloride 50mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+34887,Metoclopramide 10mg Tablet (C P Pharmaceuticals Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,01020300,04065500,null,null,CPRD_GOLD
+30176,Domperidone 10mg tablets (A A H Pharmaceuticals Ltd) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+11004,Promethazine hydrochloride 20mg tablets Promethazine hydrochloride 20mg Tablet Oral,04010100,null,null,null,CPRD_GOLD
+59576,Setofilm 4mg orodispersible films (Norgine Pharmaceuticals Ltd) Ondansetron 4mg Orodispersible film Oral,04065600,null,null,null,CPRD_GOLD
+73095,Cyclizine 50mg/1ml solution for injection ampoules (Hameln Pharmaceuticals Ltd) Cyclizine lactate 50mg/1ml Solution for injection Intravenous/Intramuscular,04060000,04065100,04065200,null,CPRD_GOLD
+500,Buccastem 3mg Tablet (Reckitt Benckiser Healthcare (UK) Ltd) Prochlorperazine maleate 3mg Buccal tablet Buccal,04020100,40120000,null,null,CPRD_GOLD
+26363,Metoclopramide 10mg tablets (Actavis UK Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+8311,Chlorpromazine 25mg/ml injection Chlorpromazine Hydrochloride 25mg/ml Injection ,04020100,40120000,null,null,CPRD_GOLD
+11576,Metoclomex 10mg tablets (Actavis UK Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+12137,CHLORPROMAZINE HCl 25 MG TAB    ,00000000,null,null,null,CPRD_GOLD
+8273,Gastrobid Continus 15mg tablets (Napp Pharmaceuticals Ltd) Metoclopramide hydrochloride 15mg Modified-release tablet Oral,00000000,null,null,null,CPRD_GOLD
+32122,Prochlorperazine 12.5mg/1ml solution for injection ampoules (Advanz Pharma) Prochlorperazine mesilate 12.5mg/1ml Solution for injection Intramuscular,04020101,04065400,null,null,CPRD_GOLD
+10434,Largactil 25mg/5ml Oral solution (Hawgreen Ltd) Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,04020100,40120000,null,null,CPRD_GOLD
+64679,Domperidone 1mg/ml oral suspension sugar free (DE Pharmaceuticals) Domperidone 1mg/1ml Oral suspension Oral,04065500,null,null,null,CPRD_GOLD
+51579,Stemetil 5mg tablets (Sigma Pharmaceuticals Plc) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+6521,Metoclopramide 1mg/ml sugar free Oral solution Metoclopramide Hydrochloride 1mg/ml Oral Solution Oral,01020300,04065500,null,null,CPRD_GOLD
+58835,Cyclizine 25mg/5ml oral suspension Cyclizine hydrochloride 5mg/1ml Oral suspension Oral,04060000,04065100,04065200,null,CPRD_GOLD
+31175,Chlorpromazine 25mg tablets (A A H Pharmaceuticals Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+511,Maxolon 10mg Tablet (Shire Pharmaceuticals Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,01020300,04065500,null,null,CPRD_GOLD
+65441,Cyclizine 50mg/1ml solution for injection ampoules (Martindale Pharmaceuticals Ltd) Cyclizine lactate 50mg/1ml Solution for injection Intravenous/Intramuscular,04060000,04065100,04065200,null,CPRD_GOLD
+66232,Domperidone 800micrograms/5ml oral suspension Domperidone 160microgram/1ml Oral suspension Oral,04065500,null,null,null,CPRD_GOLD
+79293,Cyclizine 50mg tablets (Phoenix Healthcare Distribution Ltd) Cyclizine hydrochloride 50mg Tablet Oral,04060000,04065100,04065200,null,CPRD_GOLD
+57105,Cyclizine 12.5mg/5ml oral suspension Cyclizine hydrochloride 2.5mg/1ml Oral suspension Oral,04060000,04065100,04065200,null,CPRD_GOLD
+39653,Maxolon 10mg/2ml solution for injection ampoules (Advanz Pharma) Metoclopramide hydrochloride 5mg/1ml Solution for injection Intravenous/Intramuscular,04065500,null,null,null,CPRD_GOLD
+21863,Gastrese la 15mg Modified-release tablet (Manufacturer unknown) Metoclopramide hydrochloride 15mg Modified-release tablet Oral,01020300,04065500,null,null,CPRD_GOLD
+62744,Domperidone 10mg tablets (Strides Pharma UK Ltd) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+10446,CHLORPROMAZINE HCl 50 MG TAB    ,00000000,null,null,null,CPRD_GOLD
+58703,Largactil 50mg tablets (Sanofi) Chlorpromazine hydrochloride 50mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+32551,Prochlorperazine 5mg tablets (IVAX Pharmaceuticals UK Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+13034,Metoclopramide 5mg/ml Injection (Phoenix Healthcare Distribution Ltd) Metoclopramide Hydrochloride 5mg/ml Injection Intravenous Injection,01020300,04065500,null,null,CPRD_GOLD
+14955,Phenergan Nightime 25mg tablets (Sanofi) Promethazine hydrochloride 25mg Tablet Oral,04010100,null,null,null,CPRD_GOLD
+80551,Prochlorperazine 5mg tablets (Medreich Plc) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+39114,Ondemet 8mg tablets (Alliance Pharmaceuticals Ltd) Ondansetron hydrochloride 8mg Tablet Oral,04065600,null,null,null,CPRD_GOLD
+45886,Ondansetron 4mg orodispersible tablets Ondansetron 4mg Orodispersible tablet Oral,04065600,null,null,null,CPRD_GOLD
+11664,Ondansetron 8mg oral lyophilisates sugar free Ondansetron 8mg Oral lyophilisate Oral,04065600,null,null,null,CPRD_GOLD
+47547,Metoclopramide 5mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) Metoclopramide hydrochloride 1mg/1ml Oral solution Oral,04065500,null,null,null,CPRD_GOLD
+77571,Prochlorperazine 5mg tablets (Waymade Healthcare Plc) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+62980,Promethazine 25mg/5ml oral solution Promethazine hydrochloride 5mg/1ml Oral solution Oral,03040102,04010100,04065400,null,CPRD_GOLD
+37276,Zofran Flexi-amp 4mg/2ml solution for injection ampoules (Novartis Pharmaceuticals UK Ltd) Ondansetron hydrochloride 2mg/1ml Solution for injection Intravenous/Intramuscular,04065600,null,null,null,CPRD_GOLD
+22606,Chlorpromazine 25mg/1ml solution for injection ampoules Chlorpromazine hydrochloride 25mg/1ml Solution for injection Intravenous/Intramuscular,00000000,null,null,null,CPRD_GOLD
+79495,Vertigon 25mg tablets (Manx Healthcare Ltd) Promethazine teoclate 25mg Tablet Oral,04065400,null,null,null,CPRD_GOLD
+61153,Chlorpromazine 25mg tablets (Phoenix Healthcare Distribution Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+17208,Zofran 2mg/ml Injection (Glaxo Laboratories Ltd) Ondansetron Hydrochloride 2mg/ml Injection Intravenous Injection,04065600,null,null,null,CPRD_GOLD
+5497,Stemetil 25mg tablets (Sanofi) Prochlorperazine maleate 25mg Tablet Oral,00000000,null,null,null,CPRD_GOLD
+74653,Promethazine hydrochloride oral solution Promethazine Hydrochloride   ,03040102,04010100,null,null,CPRD_GOLD
+62540,Ondansetron 4mg tablets (Teva UK Ltd) Ondansetron hydrochloride 4mg Tablet Oral,04065600,null,null,null,CPRD_GOLD
+71706,Setofilm 8mg orodispersible films (Norgine Pharmaceuticals Ltd) Ondansetron 8mg Orodispersible film Oral,04065600,null,null,null,CPRD_GOLD
+57835,Ondansetron 4mg orodispersible films sugar free Ondansetron 4mg Orodispersible film Oral,04065600,null,null,null,CPRD_GOLD
+47101,Demorem 4mg/5ml oral solution (Kappin Ltd) Ondansetron hydrochloride 800microgram/1ml Oral solution Oral,04065600,null,null,null,CPRD_GOLD
+56638,Domperidone 10mg tablets (Almus Pharmaceuticals Ltd) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+45902,Ondemet 8mg/4ml solution for injection ampoules (Alliance Pharmaceuticals Ltd) Ondansetron hydrochloride 2mg/1ml Solution for injection Intravenous/Intramuscular,04065600,null,null,null,CPRD_GOLD
+15092,Evoxin 10mg Tablet (Sanofi-Synthelabo Ltd) Domperidone maleate 10mg Tablet Oral,01020300,04065500,null,null,CPRD_GOLD
+64946,Cyclizine 50mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd) Cyclizine lactate 50mg/1ml Solution for injection Intravenous/Intramuscular,04060000,04065100,04065200,null,CPRD_GOLD
+49968,Phenergan 25mg tablets (DE Pharmaceuticals) Promethazine hydrochloride 25mg Tablet Oral,04010100,04065400,null,null,CPRD_GOLD
+8386,Maxolon Paediatric 5mg/5ml liquid (Amdipharm Plc) Metoclopramide hydrochloride 1mg/1ml Oral solution Oral,04065500,null,null,null,CPRD_GOLD
+8525,Primperan 10mg Tablet (Berk Pharmaceuticals Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,01020300,04065500,null,null,CPRD_GOLD
+4443,Cyclizine 50mg/1ml solution for injection ampoules Cyclizine lactate 50mg/1ml Solution for injection Intravenous/Intramuscular,04060000,04065100,04065200,null,CPRD_GOLD
+77984,Cyclizine 50mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd) Cyclizine lactate 50mg/1ml Solution for injection Intravenous/Intramuscular,04060000,04065100,04065200,null,CPRD_GOLD
+227,Stemetil 5mg suppositories (Sanofi) Prochlorperazine maleate 5mg Suppository Rectal,04020101,04065400,null,null,CPRD_GOLD
+41645,Chlorpromazine 25mg/ml Injection (Antigen Pharmaceuticals) Chlorpromazine Hydrochloride 25mg/ml Injection Intramuscular Deep Injection,04020100,40120000,null,null,CPRD_GOLD
+67747,Chlorpromazine 25mg tablets (Almus Pharmaceuticals Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+7593,Stemetil 5mg/5ml Oral solution (Castlemead Healthcare Ltd) Prochlorperazine mesilate 1mg/1ml Oral solution Oral,04020100,40120000,null,null,CPRD_GOLD
+59614,Ondemet 4mg/2ml solution for injection ampoules (Alliance Pharmaceuticals Ltd) Ondansetron hydrochloride 2mg/1ml Solution for injection Intravenous/Intramuscular,04065600,null,null,null,CPRD_GOLD
+10032,Ondansetron 4mg oral lyophilisates sugar free Ondansetron 4mg Oral lyophilisate Oral,04065600,null,null,null,CPRD_GOLD
+57965,Ondansetron 8mg orodispersible films sugar free Ondansetron 8mg Orodispersible film Oral,04065600,null,null,null,CPRD_GOLD
+10118,Zofran Melt 4mg oral lyophilisates (Novartis Pharmaceuticals UK Ltd) Ondansetron 4mg Oral lyophilisate Oral,04065600,null,null,null,CPRD_GOLD
+15601,Maxolon SR 15mg capsules (Amdipharm Plc) Metoclopramide hydrochloride 15mg Modified-release capsule Oral,04065500,null,null,null,CPRD_GOLD
+77429,Motilium 10mg tablets (Waymade Healthcare Plc) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+1990,Prochlorperazine 25mg suppositories Prochlorperazine maleate 25mg Suppository Rectal,04020101,04065400,null,null,CPRD_GOLD
+14364,Prochlorperazine 12.5mg/1ml solution for injection ampoules Prochlorperazine mesilate 12.5mg/1ml Solution for injection Intramuscular,04020101,04065400,null,null,CPRD_GOLD
+66165,Cyclizine 50mg tablets (Sigma Pharmaceuticals Plc) Cyclizine hydrochloride 50mg Tablet Oral,04060000,04065100,04065200,null,CPRD_GOLD
+58656,Cyclizine 50mg/5ml oral suspension Cyclizine hydrochloride 10mg/1ml Oral suspension Oral,04060000,04065100,04065200,null,CPRD_GOLD
+60971,Prochlorperazine 3mg buccal tablets (A A H Pharmaceuticals Ltd) Prochlorperazine maleate 3mg Buccal tablet Buccal,04065400,null,null,null,CPRD_GOLD
+31889,Ziz 10mg tablets (Chatfield Laboratories) Promethazine hydrochloride 10mg Tablet Oral,03040102,04010100,04065400,null,CPRD_GOLD
+1020,Domperidone 10mg tablets Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+51398,Cyclizine 50mg/5ml oral solution Cyclizine hydrochloride 10mg/1ml Oral solution Oral,04060000,04065100,04065200,null,CPRD_GOLD
+43448,Metoclopramide 12.5mg/5ml oral solution Metoclopramide hydrochloride 2.5mg/1ml Oral solution Oral,04065500,null,null,null,CPRD_GOLD
+15438,Prochlorperazine maleate 15mg modified release capsul Prochlorperazine Maleate 15mg Modified Release Capsules Oral,04020100,40120000,null,null,CPRD_GOLD
+59108,Ondansetron 4mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd) Ondansetron hydrochloride 2mg/1ml Solution for injection Intravenous/Intramuscular,04065600,null,null,null,CPRD_GOLD
+54428,Domperidone 10mg tablets (Actavis UK Ltd) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+52677,Metoclopramide 5mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Metoclopramide hydrochloride 1mg/1ml Oral solution Oral,04065500,null,null,null,CPRD_GOLD
+26177,Domperidone 10mg tablets (Mylan) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+64838,Metoclopramide 10mg tablets (Crescent Pharma Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+49938,Domperidone 10mg tablets (Bristol Laboratories Ltd) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+66189,Ondansetron 4mg tablets (A A H Pharmaceuticals Ltd) Ondansetron hydrochloride 4mg Tablet Oral,04065600,null,null,null,CPRD_GOLD
+55838,Phenergan 25mg tablets (Lexon (UK) Ltd) Promethazine hydrochloride 25mg Tablet Oral,04010100,04065400,null,null,CPRD_GOLD
+9519,Motilium 10 tablets (McNeil Products Ltd) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+63059,Metoclopramide 10mg tablets (Accord Healthcare Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+19231,Zofran 16mg suppositories (Novartis Pharmaceuticals UK Ltd) Ondansetron 16mg Suppository Rectal,04065600,null,null,null,CPRD_GOLD
+44292,Domperidone 10mg orodispersible tablets sugar free Domperidone 10mg Orodispersible tablet Oral,04065500,null,null,null,CPRD_GOLD
+13479,CHLORPROMAZINE 25 MG SUP    ,00000000,null,null,null,CPRD_GOLD
+47056,Promethazine 50mg/2ml solution for injection ampoules Promethazine hydrochloride 25mg/1ml Solution for injection Intramuscular/Intravenous,04010100,04065400,null,null,CPRD_GOLD
+55038,Prochlorperazine 5mg tablets (Sigma Pharmaceuticals Plc) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+62115,Prochlorperazine 5mg tablets (Genesis Pharmaceuticals Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+21359,Sominex 20mg tablets (Teva UK Ltd) Promethazine hydrochloride 20mg Tablet Oral,04010100,null,null,null,CPRD_GOLD
+63190,Domperidone 10mg/5ml oral suspension Domperidone 2mg/1ml Oral suspension Oral,04065500,null,null,null,CPRD_GOLD
+4712,Ondansetron 4mg/5ml oral solution sugar free Ondansetron hydrochloride 800microgram/1ml Oral solution Oral,04065600,null,null,null,CPRD_GOLD
+34344,Prochlorperazine 5mg tablets (A A H Pharmaceuticals Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+72218,Domperidone 10mg Tablet (Manx Pharma Ltd) Domperidone maleate 10mg Tablet Oral,01020300,04065500,null,null,CPRD_GOLD
+79374,Metoclopramide 10mg Tablet (Celltech Pharma Europe Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,01020300,04065500,null,null,CPRD_GOLD
+9190,Chlorpromazine 25mg/5ml oral solution sugar free Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,04020101,null,null,null,CPRD_GOLD
+17496,Gastroflux 10mg tablets (Ashbourne Pharmaceuticals Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+2254,Motilium 10mg tablets (Zentiva) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+1234,Stemetil 25mg suppositories (Sanofi) Prochlorperazine maleate 25mg Suppository Rectal,04020101,04065400,null,null,CPRD_GOLD
+31172,Chlorpromazine 50mg tablets (Teva UK Ltd) Chlorpromazine hydrochloride 50mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+56862,Chlorpromazine 25mg/5ml syrup (Rosemont Pharmaceuticals Ltd) Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,04020101,null,null,null,CPRD_GOLD
+48445,Metoclopramide 10mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd) Metoclopramide hydrochloride 5mg/1ml Solution for injection Intravenous/Intramuscular,04065500,null,null,null,CPRD_GOLD
+35846,Promethazine 25mg/1ml solution for injection ampoules Promethazine hydrochloride 25mg/1ml Solution for injection Intramuscular/Intravenous,03040102,04010100,null,null,CPRD_GOLD
+43015,Cyclizine oral liquid Cyclizine Hydrochloride  Oral Liquid Oral,03040103,null,null,null,CPRD_GOLD
+918,Phenergan 10mg tablets (Sanofi) Promethazine hydrochloride 10mg Tablet Oral,03040102,04010100,04065400,null,CPRD_GOLD
+60428,Metoclopramide 10mg tablets (Waymade Healthcare Plc) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+5971,Buccastem M 3mg tablets (Alliance Pharmaceuticals Ltd) Prochlorperazine maleate 3mg Buccal tablet Buccal,04065400,null,null,null,CPRD_GOLD
+57550,Largactil 25mg/5ml syrup (Sanofi) Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,04020101,null,null,null,CPRD_GOLD
+304,Maxolon 5mg tablets (Shire Pharmaceuticals Ltd) Metoclopramide hydrochloride 5mg Tablet Oral,00000000,null,null,null,CPRD_GOLD
+34084,Metoclopramide 10mg/2ml solution for injection ampoules (Advanz Pharma) Metoclopramide hydrochloride 5mg/1ml Solution for injection Intravenous/Intramuscular,04065500,null,null,null,CPRD_GOLD
+618,Ondansetron 2mg/ml Injection Ondansetron Hydrochloride 2mg/ml Injection ,04065600,null,null,null,CPRD_GOLD
+72580,Cyclizine 5mg/5ml oral solution Cyclizine hydrochloride 1mg/1ml Oral solution Oral,04060000,04065100,04065200,null,CPRD_GOLD
+61961,Metoclopramide 10mg tablets (DE Pharmaceuticals) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+74850,Ondansetron 8mg/4ml solution for injection ampoules (Wockhardt UK Ltd) Ondansetron hydrochloride 2mg/1ml Solution for injection Intravenous/Intramuscular,04065600,null,null,null,CPRD_GOLD
+4136,Domperidone 30mg suppositories Domperidone 30mg Suppository Rectal,04065500,null,null,null,CPRD_GOLD
+72716,Chlorpromazine oral liquid Chlorpromazine Hydrochloride   ,04020100,40120000,null,null,CPRD_GOLD
+9113,Valoid 50mg/1ml solution for injection ampoules (Advanz Pharma) Cyclizine lactate 50mg/1ml Solution for injection Intravenous/Intramuscular,04060000,04065100,04065200,null,CPRD_GOLD
+50462,Stemetil 5mg tablets (DE Pharmaceuticals) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+42882,Buccastem 3mg tablets (Alliance Pharmaceuticals Ltd) Prochlorperazine maleate 3mg Buccal tablet Buccal,04065400,null,null,null,CPRD_GOLD
+4401,Prochlorperazine maleate 10mg modified release capsule Prochlorperazine Maleate 10mg Modified Release Capsules Oral,04020100,40120000,null,null,CPRD_GOLD
+14443,Evoxin 30mg Suppository (Sanofi-Synthelabo Ltd) Domperidone 30mg Suppository Rectal,01020300,04065500,null,null,CPRD_GOLD
+36022,Ondemet 4mg tablets (Alliance Pharmaceuticals Ltd) Ondansetron hydrochloride 4mg Tablet Oral,04065600,null,null,null,CPRD_GOLD
+78118,Ondansetron 4mg/5ml oral suspension Ondansetron hydrochloride 800microgram/1ml Oral suspension Oral,04065600,null,null,null,CPRD_GOLD
+3738,Stemetil Eff 5mg sachets (Sanofi) Prochlorperazine mesilate 5mg Effervescent granules Oral,00000000,null,null,null,CPRD_GOLD
+8784,Metox 10mg Tablet (M A Steinhard Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,01020300,04065500,null,null,CPRD_GOLD
+13971,Ondansetron 16mg suppositories Ondansetron 16mg Suppository Rectal,04065600,null,null,null,CPRD_GOLD
+75669,Ondansetron 4mg/2ml solution for injection ampoules (Mylan) Ondansetron hydrochloride 2mg/1ml Solution for injection Intravenous/Intramuscular,04065600,null,null,null,CPRD_GOLD
+39621,Maxolon 10mg tablets (Advanz Pharma) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+9590,Prochlorperazine 5mg effervescent granules sachets sugar free Prochlorperazine mesilate 5mg Effervescent granules Oral,00000000,null,null,null,CPRD_GOLD
+299,Metoclopramide 10mg/2ml Injection Metoclopramide Hydrochloride 10mg/2ml Injection Intravenous Injection,01020300,04065500,null,null,CPRD_GOLD
+7438,Phenergan 25mg/ml Injection (Aventis Pharma) Promethazine Hydrochloride 25mg/ml Injection Intravenous Injection,03040102,03040300,null,null,CPRD_GOLD
+3323,METOCLOPRAMIDE HCl 10 MG TAB    ,00000000,null,null,null,CPRD_GOLD
+8771,Largactil 10mg Tablet (Hawgreen Ltd) Chlorpromazine hydrochloride 10mg Tablet Oral,04020100,40120000,null,null,CPRD_GOLD
+76534,Prochlorperazine 3mg buccal tablets (Medreich Plc) Prochlorperazine maleate 3mg Buccal tablet Buccal,04065400,null,null,null,CPRD_GOLD
+76968,Cyclizine 10mg/5ml oral solution Cyclizine hydrochloride 2mg/1ml Oral solution Oral,04060000,04065100,04065200,null,CPRD_GOLD
+65874,Ondansetron 8mg/4ml solution for injection ampoules (A A H Pharmaceuticals Ltd) Ondansetron hydrochloride 2mg/1ml Solution for injection Intravenous/Intramuscular,04065600,null,null,null,CPRD_GOLD
+35929,Chlorpromazine 50mg/2ml solution for injection ampoules Chlorpromazine hydrochloride 25mg/1ml Solution for injection Intramuscular,04020101,null,null,null,CPRD_GOLD
+4142,Metoclopramide 5mg/5ml Oral solution Metoclopramide Hydrochloride 5mg/5ml Oral Solution Oral,01020300,04065500,null,null,CPRD_GOLD
+55011,Largactil 25mg tablets (Sanofi) Chlorpromazine hydrochloride 25mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+62464,Cyclizine 50mg tablets (Advanz Pharma) Cyclizine hydrochloride 50mg Tablet Oral,04060000,04065100,04065200,null,CPRD_GOLD
+68774,Domperidone 1.9mg/5ml oral suspension Domperidone 380microgram/1ml Oral suspension Oral,04065500,null,null,null,CPRD_GOLD
+37871,Chlorpromazine 25mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd) Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,04020100,40120000,null,null,CPRD_GOLD
+9118,Primperan 5mg/5ml Oral solution sugar free (Berk Pharmaceuticals Ltd) Metoclopramide hydrochloride 1mg/1ml Oral solution Oral,01020300,04065500,null,null,CPRD_GOLD
+1438,Zofran 4mg tablets (Novartis Pharmaceuticals UK Ltd) Ondansetron hydrochloride 4mg Tablet Oral,04065600,null,null,null,CPRD_GOLD
+34693,Chlorpromazine 25mg tablets (Thornton & Ross Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+73904,Cyclizine 25mg suppositories Cyclizine hydrochloride 25mg Suppository Rectal,04060000,04065100,04065400,null,CPRD_GOLD
+52693,Ondansetron 4mg/2ml solution for injection ampoules (Accord Healthcare Ltd) Ondansetron hydrochloride 2mg/1ml Solution for injection Intravenous/Intramuscular,04065600,null,null,null,CPRD_GOLD
+59008,Prochlorperazine 3mg buccal tablets (Advanz Pharma) Prochlorperazine maleate 3mg Buccal tablet Buccal,04065400,null,null,null,CPRD_GOLD
+62590,Promethazine 25mg/5ml oral suspension Promethazine hydrochloride 5mg/1ml Oral suspension Oral,03040102,04010100,04065400,null,CPRD_GOLD
+45355,Domperidone 10mg tablets (Wockhardt UK Ltd) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+8506,Chlorpromazine 100mg suppository Chlorpromazine Hydrochloride 100mg Suppository Rectal,04020100,40120000,null,null,CPRD_GOLD
+68942,Prochlorperazine 5mg tablets (DE Pharmaceuticals) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+25653,Chloractil 50mg Tablet (DDSA Pharmaceuticals Ltd) Chlorpromazine hydrochloride 50mg Tablet Oral,04020100,40120000,null,null,CPRD_GOLD
+73023,Domperidone 50mg/5ml oral suspension Domperidone 10mg/1ml Oral suspension Oral,04065500,null,null,null,CPRD_GOLD
+59491,Domperidone 10mg/2ml solution for injection ampoules Domperidone 5mg/1ml Solution for injection Intravenous,04065500,null,null,null,CPRD_GOLD
+49170,Stemetil 5mg tablets (Lexon (UK) Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+64106,Cyclizine 50mg/1ml solution for injection ampoules (Advanz Pharma) Cyclizine lactate 50mg/1ml Solution for injection Intravenous/Intramuscular,04060000,04065100,04065200,null,CPRD_GOLD
+237,PROCHLORPERAZINE 5 MG ELI    ,00000000,null,null,null,CPRD_GOLD
+3932,Prochlorperazine 25mg tablets Prochlorperazine maleate 25mg Tablet Oral,00000000,null,null,null,CPRD_GOLD
+5081,Metoclopramide 5mg/5ml oral solution sugar free Metoclopramide hydrochloride 1mg/1ml Oral solution Oral,04065500,null,null,null,CPRD_GOLD
+68024,Metoclopramide 10mg tablets (Kent Pharmaceuticals Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+247,CHLORPROMAZINE 50 MG INJ    ,00000000,null,null,null,CPRD_GOLD
+43420,Prochlorperazine 5mg tablets (Dr Reddy's Laboratories (UK) Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+61592,Prochlorperazine 5mg tablets (Almus Pharmaceuticals Ltd) Prochlorperazine maleate 5mg Tablet Oral,04020101,04065400,null,null,CPRD_GOLD
+989,Promethazine teoclate 25mg tablets Promethazine teoclate 25mg Tablet Oral,04065400,null,null,null,CPRD_GOLD
+3024,PROCHLORPERAZINE MALEATE 3 MG TAB    ,00000000,null,null,null,CPRD_GOLD
+3772,Largactil 50mg Tablet (Hawgreen Ltd) Chlorpromazine hydrochloride 50mg Tablet Oral,04020100,40120000,null,null,CPRD_GOLD
+5087,Ondansetron 4mg tablets Ondansetron hydrochloride 4mg Tablet Oral,04065600,null,null,null,CPRD_GOLD
+23753,Primperan 5mg/ml Injection (Berk Pharmaceuticals Ltd) Metoclopramide Hydrochloride 5mg/ml Injection ,01020300,04065500,null,null,CPRD_GOLD
+3952,Chlorpromazine 25mg/5ml oral solution Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,04020101,null,null,null,CPRD_GOLD
+66770,Metoclopramide 10mg tablets (Sigma Pharmaceuticals Plc) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+16604,DOMPERIDONE 5 MG INJ    ,00000000,null,null,null,CPRD_GOLD
+73181,Cyclizine 10mg/5ml oral suspension Cyclizine hydrochloride 2mg/1ml Oral suspension Oral,04060000,04065100,04065200,null,CPRD_GOLD
+3582,Phenergan 25mg tablets (Sanofi) Promethazine hydrochloride 25mg Tablet Oral,04010100,04065400,null,null,CPRD_GOLD
+62609,Cyclizine 50mg tablets (Teva UK Ltd) Cyclizine hydrochloride 50mg Tablet Oral,04060000,04065100,04065200,null,CPRD_GOLD
+5510,Prochlorperazine mesilate 12.5mg/ml injection Prochlorperazine Mesilate 12.5mg/ml Injection ,04020100,40120000,null,null,CPRD_GOLD
+8689,Vertigon spansule 10 10mg Spansule (GlaxoSmithKline Consumer Healthcare) Prochlorperazine Maleate 10mg Spansule Oral,04020100,40120000,null,null,CPRD_GOLD
+68273,Domperidone 1mg/ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd) Domperidone 1mg/1ml Oral suspension Oral,04065500,null,null,null,CPRD_GOLD
+78592,Domperidone 10mg tablets (Sigma Pharmaceuticals Plc) Domperidone maleate 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+8473,Zofran 8mg tablets (Novartis Pharmaceuticals UK Ltd) Ondansetron hydrochloride 8mg Tablet Oral,04065600,null,null,null,CPRD_GOLD
+31184,Chlorpromazine 25mg tablets (IVAX Pharmaceuticals UK Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,04020101,null,null,null,CPRD_GOLD
+33229,Metoclopramide 10mg tablets (Teva UK Ltd) Metoclopramide hydrochloride 10mg Tablet Oral,04065500,null,null,null,CPRD_GOLD
+7514,Largactil 50mg/2ml solution for injection ampoules (Sanofi) Chlorpromazine hydrochloride 25mg/1ml Solution for injection Intramuscular,04020101,null,null,null,CPRD_GOLD
+27581,MAXOLON    ,00000000,null,null,null,CPRD_GOLD
+43710,Domperidone 1mg/ml oral suspension sugar free (Zentiva) Domperidone 1mg/1ml Oral suspension Oral,04065500,null,null,null,CPRD_GOLD
+80888,Ondansetron 4mg/5ml oral solutionOndansetron hydrochloride800microgram/1mlOral solutionOral ,04065600,null,null,null,CPRD_GOLD
+80929,Zofran Melt 4mg oral lyophilisates (Mawdsley-Brooks & Company Ltd)Ondansetron4mgOral lyophilisateOral ,04065600,null,null,null,CPRD_GOLD
+80979,Ondansetron 4mg/2ml solution for injection ampoules (Hameln Pharmaceuticals Ltd)Ondansetron hydrochloride2mg/1mlSolution for injectionIntravenous/Intramuscular ,04065600,null,null,null,CPRD_GOLD
+81316,Prochlorperazine 5mg tablets (Phoenix Healthcare Distribution Ltd)Prochlorperazine maleate5mgTabletOral ,04020101,04065400,null,null,CPRD_GOLD
+81650,Ondansetron 4mg tablets (Actavis UK Ltd)Ondansetron hydrochloride4mgTabletOral ,04065600,null,null,null,CPRD_GOLD
+82318,Domperidone 10mg tablets (Medreich Plc)Domperidone maleate10mgTabletOral ,04065500,null,null,null,CPRD_GOLD
+82379,Promethazine hydrochloride 10mg tablets (Alliance Healthcare (Distribution) Ltd)Promethazine hydrochloride10mgTabletOral ,03040102,04010100,04065400,null,CPRD_GOLD
+82439,Chlorpromazine 25mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)Chlorpromazine hydrochloride5mg/1mlOral solutionOral ,04020101,null,null,null,CPRD_GOLD
+82462,Ondansetron 4mg tablets (Bristol Laboratories Ltd)Ondansetron hydrochloride4mgTabletOral ,04065600,null,null,null,CPRD_GOLD
+26791,VALOID    ,00000000,null,null,null,CPRD_GOLD

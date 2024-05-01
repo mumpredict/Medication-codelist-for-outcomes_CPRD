@@ -1,0 +1,46 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+30316,Metformin with pioglitazone 850mg + 15mg Tablet Metformin/Pioglitazone 850mg + 15mg Tablet Oral,06010202,06010203,null,null,CPRD_GOLD
+13628,Romozin 400mg Tablet (Glaxo Wellcome UK Ltd) Troglitazone 400mg Tablet Oral,06010203,null,null,null,CPRD_GOLD
+11604,Rosiglitazone 1mg / Metformin 500mg tablets Rosiglitazone maleate/Metformin hydrochloride 1mg + 500mg Tablet Oral,06010213,null,null,null,CPRD_GOLD
+63046,Pioglitazone 45mg tablets (A A H Pharmaceuticals Ltd) Pioglitazone hydrochloride 45mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+56831,Troglitazone 200mg Tablet  200mg Tablet ,06010203,null,null,null,CPRD_GOLD
+11609,Metformin with rosiglitazone 500mg + 1mg Tablet Metformin Hydrochloride/Rosiglitazone Maleate 500mg + 1mg Tablet Oral,06010202,06010203,null,null,CPRD_GOLD
+11737,Metformin with rosiglitazone 1000mg + 4mg Tablet Metformin Hydrochloride/Rosiglitazone Maleate 1000mg + 4mg Tablet Oral,06010202,06010203,null,null,CPRD_GOLD
+20889,Actos 30mg tablets (Takeda UK Ltd) Pioglitazone hydrochloride 30mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+548,Pioglitazone 15mg tablets Pioglitazone hydrochloride 15mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+11601,Rosiglitazone 2mg / Metformin 500mg tablets Metformin hydrochloride/Rosiglitazone maleate 500mg + 2mg Tablet Oral,06010213,null,null,null,CPRD_GOLD
+68934,Diabiom 30mg tablets (Tillomed Laboratories Ltd) Pioglitazone hydrochloride 30mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+9699,Pioglitazone 30mg tablets Pioglitazone hydrochloride 30mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+7325,Avandamet 4mg/1000mg tablets (GlaxoSmithKline UK Ltd) Metformin hydrochloride/Rosiglitazone maleate 1gram + 4mg Tablet Oral,00000000,null,null,null,CPRD_GOLD
+469,Rosiglitazone 4mg tablets Rosiglitazone maleate 4mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+72163,Pioglitazone 45mg tablets (Alliance Healthcare (Distribution) Ltd) Pioglitazone hydrochloride 45mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+65563,Pioglitazone 15mg tablets (Alliance Healthcare (Distribution) Ltd) Pioglitazone hydrochloride 15mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+48120,Avandia 2mg Tablet (GlaxoSmithKline UK Ltd) Rosiglitazone Maleate 2mg Tablet Oral,06010203,null,null,null,CPRD_GOLD
+5227,Rosiglitazone 8mg tablets Rosiglitazone maleate 8mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+11760,Metformin with rosiglitazone 1000mg + 2mg Tablet Metformin Hydrochloride/Rosiglitazone Maleate 1000mg + 2mg Tablet Oral,06010202,06010203,null,null,CPRD_GOLD
+63421,Pioglitazone 30mg tablets (Teva UK Ltd) Pioglitazone hydrochloride 30mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+63107,Pioglitazone 45mg tablets (Waymade Healthcare Plc) Pioglitazone hydrochloride 45mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+62426,Pioglitazone 30mg tablets (Accord Healthcare Ltd) Pioglitazone hydrochloride 30mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+57659,Pioglitazone 30mg tablets (Actavis UK Ltd) Pioglitazone hydrochloride 30mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+10051,Pioglitazone 45mg tablets Pioglitazone hydrochloride 45mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+56376,Rosiglitazone 4mg with glimepiride 4mg tablet Glimepiride/Rosiglitazone Maleate   ,06010201,06010203,null,null,CPRD_GOLD
+14164,Avandamet 2mg/1000mg tablets (GlaxoSmithKline UK Ltd) Rosiglitazone maleate/Metformin hydrochloride 2mg + 1gram Tablet Oral,00000000,null,null,null,CPRD_GOLD
+48139,Pioglitazone 30mg tablets (A A H Pharmaceuticals Ltd) Pioglitazone hydrochloride 30mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+6855,Avandamet 2mg/500mg tablets (GlaxoSmithKline UK Ltd) Metformin hydrochloride/Rosiglitazone maleate 500mg + 2mg Tablet Oral,00000000,null,null,null,CPRD_GOLD
+18220,Pioglitazone 15mg / Metformin 850mg tablets Metformin hydrochloride/Pioglitazone hydrochloride 850mg + 15mg Tablet Oral,06010213,null,null,null,CPRD_GOLD
+65562,Pioglitazone 30mg tablets (Alliance Healthcare (Distribution) Ltd) Pioglitazone hydrochloride 30mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+17580,Avandamet 1mg/500mg tablets (GlaxoSmithKline UK Ltd) Rosiglitazone maleate/Metformin hydrochloride 1mg + 500mg Tablet Oral,00000000,null,null,null,CPRD_GOLD
+64900,Glidipion 30mg tablets (Actavis UK Ltd) Pioglitazone hydrochloride 30mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+7375,Rosiglitazone 4mg / Metformin 1g tablets Metformin hydrochloride/Rosiglitazone maleate 1gram + 4mg Tablet Oral,06010213,null,null,null,CPRD_GOLD
+31077,Competact 15mg/850mg tablets (Takeda UK Ltd) Metformin hydrochloride/Pioglitazone hydrochloride 850mg + 15mg Tablet Oral,06010213,null,null,null,CPRD_GOLD
+20287,Actos 15mg tablets (Takeda UK Ltd) Pioglitazone hydrochloride 15mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+78258,Pioglitazone 15mg/5ml oral suspension Pioglitazone hydrochloride 3mg/1ml Oral suspension Oral,06010207,null,null,null,CPRD_GOLD
+56208,Pioglitazone 15mg tablets (A A H Pharmaceuticals Ltd) Pioglitazone hydrochloride 15mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+11610,Metformin with rosiglitazone 500mg + 2mg Tablet Metformin Hydrochloride/Rosiglitazone Maleate 500mg + 2mg Tablet Oral,06010202,06010203,null,null,CPRD_GOLD
+11717,Rosiglitazone 2mg / Metformin 1g tablets Rosiglitazone maleate/Metformin hydrochloride 2mg + 1gram Tablet Oral,06010213,null,null,null,CPRD_GOLD
+79854,Pioglitazone 15mg tablets (Accord Healthcare Ltd) Pioglitazone hydrochloride 15mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+69885,Pioglitazone 30mg tablets (Consilient Health Ltd) Pioglitazone hydrochloride 30mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+37617,Rosiglitazone 2mg tablet Rosiglitazone Maleate 2mg Tablets Oral,06010203,null,null,null,CPRD_GOLD
+74963,Romozin 200mg Tablet (Glaxo Wellcome UK Ltd)  200mg Tablet ,06010203,null,null,null,CPRD_GOLD
+19472,Actos 45mg tablets (Takeda UK Ltd) Pioglitazone hydrochloride 45mg Tablet Oral,06010207,null,null,null,CPRD_GOLD
+82372,Competact 15mg/850mg tablets (DE Pharmaceuticals)Pioglitazone hydrochloride/Metformin hydrochloride15mg + 850mgTabletOral ,06010213,null,null,null,CPRD_GOLD

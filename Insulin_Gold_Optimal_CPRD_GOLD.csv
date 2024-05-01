@@ -1,0 +1,344 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+43950,Humulin I KwikPen 100units/ml suspension for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin isophane human 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+1592,Actrapid penfill 100 100iu/ml Penfill (Novo Nordisk Ltd) Insulin Soluble Human 100iu/ml Penfill Subcutaneous Injection,06010101,06010300,null,null,CPRD_GOLD
+4163,Rapitard MC 100unit/ml Injection (Novo Nordisk Ltd) Insulin Soluble Porcine/Insulin 100unit/ml Injection ,06010102,null,null,null,CPRD_GOLD
+28588,Hypurin Bovine Isophane 100units/ml suspension for injection 3ml cartridges (Wockhardt UK Ltd) Insulin isophane bovine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+36031,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 3ml cartridges Insulin isophane porcine/Insulin soluble porcine 70unit/1ml + 30unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+7400,Insulin glargine 100units/ml solution for injection 3ml pre-filled disposable devices Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+41120,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml pre-filled disposable devices Insulin soluble human/Insulin isophane human 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+13622,Hypurin porcine neutral 100unit/ml Injection (C P Pharmaceuticals Ltd) Insulin soluble porcine 100unit/1ml Solution for injection Subcutaneous/Intravenous/Intramuscular,06010101,06010300,null,null,CPRD_GOLD
+5953,Insulin glargine 100iu/ml Injection Insulin Glargine 100iu/ml Injection ,06010102,null,null,null,CPRD_GOLD
+10277,Humulin M3 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Company Ltd) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+18224,Humalog 100units/ml solution for injection 10ml vials (Eli Lilly and Company Ltd) Insulin lispro 100unit/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+53710,Insulin human 500units/ml solution for injection 20ml vials Insulin human 500unit/1ml Solution for injection Subcutaneous,06010100,null,null,null,CPRD_GOLD
+55687,Insulin degludec 100units/ml solution for injection 3ml pre-filled disposable devices Insulin degludec 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+22945,Insuman rapid 100iu/ml Injection (Aventis Pharma) Insulin Soluble Human 100iu/ml Injection Subcutaneous Injection,06010101,06010300,null,null,CPRD_GOLD
+10207,Insulin isophane human 100units/ml suspension for injection 3ml cartridges Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+14928,Insulatard 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+27280,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 10ml vials Insulin soluble porcine/Insulin isophane porcine 30unit/1ml + 70unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+29953,Apidra 100units/ml solution for injection 3ml OptiClik cartridges (Sanofi) Insulin glulisine 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+10225,Lantus 100units/ml solution for injection 3ml OptiClik cartridges (Sanofi) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+30236,Isophane insulin 100iu/ml Injection Insulin Isophane Bovine 100iu/ml Injection ,06010102,null,null,null,CPRD_GOLD
+10910,Humaject m2 100iu/ml M2 pen (Eli Lilly and Company Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml M2 Pen Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+2221,Mixtard 30 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+76988,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges (Sigma Pharmaceuticals Plc) Insulin aspart/Insulin aspart protamine 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+71351,Lantus 100units/ml solution for injection 3ml cartridges (Waymade Healthcare Plc) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+16142,Insulin aspart 100units/ml solution for injection 3ml cartridges Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+56691,Insulin degludec 200units/ml solution for injection 3ml pre-filled disposable devices Insulin degludec 200unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+1588,Actrapid 100iu/ml Injection (Novo Nordisk Ltd) Insulin Soluble Human 100iu/ml Injection Subcutaneous Injection,06010101,06010300,null,null,CPRD_GOLD
+74970,Pur-n Isophane 100unit/ml Injection (C P Pharmaceuticals Ltd) Insulin Isophane Human 100unit/ml Injection ,06010102,null,null,null,CPRD_GOLD
+36066,Insulin isophane bovine 100units/ml suspension for injection 3ml cartridges Insulin isophane bovine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+8118,Humaject i 100iu/ml Pen (Eli Lilly and Company Ltd) Insulin Isophane Human 100iu/ml Pen Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+8203,Penmix 50/50 100iu/ml Penfill (Novo Nordisk Ltd) Insulin soluble human/Insulin isophane human 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+76991,Humalog 100units/ml solution for injection 10ml vials (Waymade Healthcare Plc) Insulin lispro 100unit/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+67324,Humulin M3 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+21583,Apidra 100units/ml solution for injection 3ml pre-filled OptiSet pens (Sanofi) Insulin glulisine 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+29567,Insulin aspart 100units/ml solution for injection 10ml vials Insulin aspart 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+71428,Insulatard InnoLet 100units/ml suspension for injection 3ml pre-filled pens (Waymade Healthcare Plc) Insulin isophane human 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+31205,Insuman Comb 50 100units/ml suspension for injection 3ml pre-filled OptiSet pens (Sanofi) Insulin soluble human/Insulin isophane human 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+53251,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (DE Pharmaceuticals) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+71430,Humalog Mix25 Pen 100units/ml suspension for injection 3ml pre-filled pens (Waymade Healthcare Plc) Insulin lispro/Insulin lispro protamine 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+18592,Insulin soluble bovine 100units/ml solution for injection 10ml vials Insulin soluble bovine 100unit/1ml Solution for injection Subcutaneous/Intravenous/Intramuscular,06010101,06010300,null,null,CPRD_GOLD
+7318,Humalog 100units/ml solution for injection 3ml cartridges (Eli Lilly and Company Ltd) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+6958,Levemir FlexPen 100units/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin detemir 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+57529,Humalog 100units/ml solution for injection 10ml vials (Dowelhurst Ltd) Insulin lispro 100unit/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+44251,Insulin zinc suspension mixed porcine 100unit/ml Injection Pork Insulin 100unit/ml Injection ,06010102,null,null,null,CPRD_GOLD
+35468,Insuman Basal 100units/ml suspension for injection 5ml vials (Sanofi) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+10067,Insulin biphasic aspart human pyr 30:70; 100 units/ml Injection Insulin Aspart/Insulin Aspart Protamine 30:70; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+28101,Insulin glulisine 100units/ml solution for injection 10ml vials Insulin glulisine 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+76922,Insulin isophane biphasic human 15/85 100units/ml suspension for injection 3ml pre-filled disposable devices Insulin soluble human/Insulin isophane human 15unit/1ml + 85unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+69583,Humalog Mix25 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc) Insulin lispro protamine/Insulin lispro 75unit/1ml + 25unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+27396,Insulin soluble porcine 100units/ml solution for injection 10ml vials Insulin soluble porcine 100unit/1ml Solution for injection Subcutaneous/Intravenous/Intramuscular,06010101,06010300,null,null,CPRD_GOLD
+4199,Humulin m1 100unit/ml M1 injection (Eli Lilly and Company Ltd) Insulin Soluble Human/Insulin Isophane Human 100unit/ml M1 Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+9376,Insulin zinc suspension crystalline human pyr 100unit/ml long acting Injection Insulin Zinc Suspension Crystalline Human 100unit/ml Injection ,06010102,null,null,null,CPRD_GOLD
+24002,Insuman Comb 25 100units/ml suspension for injection 5ml vials (Sanofi) Insulin soluble human/Insulin isophane human 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+9737,Insulatard innolet 100iu/ml Injection (Novo Nordisk Ltd) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+21554,Insuman comb 50 100iu/ml Injection (Aventis Pharma) Insulin soluble human/Insulin isophane human 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+26060,Insulin lispro 100units/ml solution for injection 10ml vials Insulin lispro 100unit/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+57564,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pens (Waymade Healthcare Plc) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+11107,Humulin m4 100unit/ml M4 injection (Eli Lilly and Company Ltd) Insulin Soluble Human/Insulin Isophane Human 100unit/ml M4 Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+60938,Mixtard 30 100units/ml suspension for injection 10ml vials (Waymade Healthcare Plc) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+10887,Penmix 40/60 100iu/ml Penfill (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml Injection ,06010102,null,null,null,CPRD_GOLD
+16682,Tempulin 100unit/ml Injection (Knoll Ltd) Insulin zinc suspension mixed bovine 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+76660,Insulin lispro Sanofi 100units/ml solution for injection 3ml cartridges (Sanofi) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+3551,Mixtard 20 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml Penfill Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+55462,Tresiba FlexTouch 100units/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin degludec 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+5250,Insulin biphasic lispro human prb 25:75; 100 units/ml Injection Insulin Lispro/Insulin Lispro Protamine 25:75; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+55603,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pens (DE Pharmaceuticals) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+22155,Humaject m5 100iu/ml M5 pen (Eli Lilly and Company Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml M5 Pen Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+56489,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc) Insulin aspart/Insulin aspart protamine 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+16160,Humulin M3 Pen 100units/ml suspension for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+11056,Insulin biphasic isophane human pyr 30:70; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 30:70; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+5933,Mixtard 50 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd) Insulin soluble human/Insulin isophane human 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+76512,Insulin biphasic isophane human emp 30:70; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 30:70; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+20995,Hypurin Porcine 30/70 Mix 100units/ml suspension for injection 3ml cartridges (Wockhardt UK Ltd) Insulin isophane porcine/Insulin soluble porcine 70unit/1ml + 30unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+71395,Humalog Mix25 100units/ml suspension for injection 3ml cartridges (Sigma Pharmaceuticals Plc) Insulin lispro protamine/Insulin lispro 75unit/1ml + 25unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+57622,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pens (Waymade Healthcare Plc) Insulin lispro/Insulin lispro protamine 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+77012,Humalog 100units/ml solution for injection 10ml vials (DE Pharmaceuticals) Insulin lispro 100unit/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+5892,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+7349,Actrapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd) Insulin soluble human 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+17809,Humaject m4 100iu/ml M4 pen (Eli Lilly and Company Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml M4 Pen Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+67279,Pork Insulatard 100units/ml suspension for injection 10ml vials (Waymade Healthcare Plc) Insulin isophane porcine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+1649,Human actraphane 100iu/ml Injection (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml Injection ,06010102,null,null,null,CPRD_GOLD
+51743,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (Sigma Pharmaceuticals Plc) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+74680,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges (DE Pharmaceuticals) Insulin aspart/Insulin aspart protamine 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+22058,Pur-in mix 15/85 Injection (C P Pharmaceuticals Ltd) Insulin Soluble Human/Insulin Isophane Human  Injection ,06010102,null,null,null,CPRD_GOLD
+55910,Tresiba Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd) Insulin degludec 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+14938,Insulin soluble bovine cartridge 100unit/ml Solution for injection Insulin Soluble Bovine 100unit/ml Solution For Injection Subcutaneous Injection,06010101,06010300,null,null,CPRD_GOLD
+2459,Pork Mixtard 30 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd) Insulin soluble porcine/Insulin isophane porcine 30unit/1ml + 70unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+14649,Insulin biphasic isophane human pyr 10:90; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 10:90; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+74862,Lantus 100units/ml solution for injection 3ml pre-filled OptiSet pens (Mawdsley-Brooks & Company Ltd) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+2929,Mixtard 30 100iu/ml GE injection (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml GE Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+55618,Levemir FlexPen 100units/ml solution for injection 3ml pre-filled pens (Waymade Healthcare Plc) Insulin detemir 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+71369,NovoMix 30 FlexPen 100units/ml suspension for injection 3ml pre-filled pens (Sigma Pharmaceuticals Plc) Insulin aspart/Insulin aspart protamine 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+4706,Velosulin 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd) Insulin soluble human 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+55234,Tresiba FlexTouch 200units/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin degludec 200unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+56857,Insulin isophane biphasic human 15/85 100units/ml suspension for injection 3ml cartridges Insulin soluble human/Insulin isophane human 15unit/1ml + 85unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+27461,Insuman Basal 100units/ml suspension for injection 3ml cartridges (Sanofi) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+17731,Penmix 50/50 100iu/ml Injection (Novo Nordisk Ltd) Insulin soluble human/Insulin isophane human 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+33966,Insulatard 100unit/ml Injection (Novo Nordisk Ltd) Insulin Isophane Human 100unit/ml Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+35260,Levemir InnoLet 100units/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin detemir 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+6965,Levemir Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd) Insulin detemir 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+24800,Hypurin Porcine 30/70 Mix 100units/ml suspension for injection 10ml vials (Wockhardt UK Ltd) Insulin soluble porcine/Insulin isophane porcine 30unit/1ml + 70unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+11337,NovoRapid Novolet 100units/ml solution for injection (Novo Nordisk Ltd) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+66335,Insulin biphasic isophane porcine 50:50; 100 units/ml Injection Insulin Soluble Porcine/Insulin Isophane Porcine 50:50; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+6061,Novomix 30 30/70 100units/ml Injection (Novo Nordisk Ltd) Insulin Aspart/Insulin Aspart Protamine 30/70 100units/ml Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+53118,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pens (Mawdsley-Brooks & Company Ltd) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+14301,Insulin detemir 100units/ml solution for injection 3ml cartridges Insulin detemir 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+4784,Lentard mc 100unit/ml Injection (Novo Nordisk Ltd) Pork Insulin/Insulin Zinc Suspension Mixed Bovine 100unit/ml Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+14313,Insulin lispro 100units/ml solution for injection 3ml cartridges Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+2454,Mixtard 30 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml Penfill Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+64354,Toujeo 300units/ml solution for injection 1.5ml pre-filled SoloStar pens (Sanofi) Insulin glargine 300unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+1806,Penmix 30/70 100iu/ml Penfill (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml Injection ,06010102,null,null,null,CPRD_GOLD
+36194,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml cartridges Insulin isophane human/Insulin soluble human 75unit/1ml + 25unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+14918,Humulin I 100units/ml suspension for injection 10ml vials (Eli Lilly and Company Ltd) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+13729,Insulin isophane human emp 100unit/ml Injection Insulin Isophane Human 100unit/ml Injection ,06010102,null,null,null,CPRD_GOLD
+8322,Insulin zinc suspension mixed human pyr 100unit/ml Injection Insulin Zinc Suspension Mixed Human/Insulin Zinc Suspension Crystalline Human 100unit/ml Injection ,06010102,null,null,null,CPRD_GOLD
+1843,Pork Insulatard 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd) Insulin isophane porcine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+16700,Insulin zinc mixed bovine vial 100unit/ml Sterile suspension injection Insulin Zinc Suspension Mixed Bovine 100unit/ml Sterile Suspension Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+77805,Insulin lispro 200units/ml solution for injection 3ml pre-filled disposable devices Insulin lispro 200unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+36853,Lantus 100units/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+26403,Pur-in mix 25/75 Injection (C P Pharmaceuticals Ltd) Insulin Soluble Human/Insulin Isophane Human  Injection ,06010102,null,null,null,CPRD_GOLD
+10484,Penmix 20/80 Penfill (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human  Penfill ,06010102,null,null,null,CPRD_GOLD
+14339,Hypurin Bovine Neutral 100units/ml solution for injection 10ml vials (Wockhardt UK Ltd) Insulin soluble bovine 100unit/1ml Solution for injection Subcutaneous/Intravenous/Intramuscular,06010101,06010300,null,null,CPRD_GOLD
+23231,Hypurin Bovine Neutral 100units/ml solution for injection 3ml cartridges (Wockhardt UK Ltd) Insulin soluble bovine 100unit/1ml Solution for injection Intravenous/Subcutaneous/Intramuscular,06010101,06010300,null,null,CPRD_GOLD
+52522,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pens (DE Pharmaceuticals) Insulin lispro/Insulin lispro protamine 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+18593,Humalog Mix50 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Company Ltd) Insulin lispro/Insulin lispro protamine 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+14505,Insulin protamine zinc bovine 100units/ml suspension for injection 10ml vials Insulin protamine zinc bovine 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+63679,Hypurin soluble 100iu/ml Injection (C P Pharmaceuticals Ltd) Insulin Soluble Bovine 100iu/ml Injection ,06010101,06010300,null,null,CPRD_GOLD
+7266,Lantus 100units/ml solution for injection 3ml cartridges (Sanofi) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+55907,Insulin degludec 100units/ml solution for injection 3ml cartridges Insulin degludec 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+3550,Mixtard 40 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml Penfill Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+74824,Actrapid 100units/ml solution for injection 10ml vials (Waymade Healthcare Plc) Insulin soluble human 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+26098,Hypurin Porcine Neutral 100units/ml solution for injection 10ml vials (Wockhardt UK Ltd) Insulin soluble porcine 100unit/1ml Solution for injection Subcutaneous/Intravenous/Intramuscular,06010101,06010300,null,null,CPRD_GOLD
+44378,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml pre-filled disposable devices Insulin soluble human/Insulin isophane human 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+34031,Monotard mc 100unit/ml Injection (Novo Nordisk Ltd) Pork Insulin 100unit/ml Injection ,06010102,null,null,null,CPRD_GOLD
+16152,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml cartridges Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+28442,Insulin glulisine 100unit/ml Solution for injection Insulin Glulisine 100unit/ml Solution For Injection ,06010101,null,null,null,CPRD_GOLD
+62180,Insulin aspart 100units/ml solution for injection 1.6ml cartridges Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+6209,NovoRapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd) Insulin aspart 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+18590,Insulin isophane bovine 100units/ml suspension for injection 10ml vials Insulin isophane bovine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+75329,Insulin lispro Sanofi 100units/ml solution for injection 3ml pre-filled pens (Sanofi) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+15199,Insuman comb 25 100iu/ml Injection (Aventis Pharma) Insulin Soluble Human/Insulin Isophane Human 100iu/ml Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+35701,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml pre-filled disposable devices Insulin lispro/Insulin lispro protamine 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+10001,Humalog Mix50 Pen 100units/ml suspension for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin lispro/Insulin lispro protamine 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+74389,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pens (Sigma Pharmaceuticals Plc) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+14930,Hypurin Porcine Neutral 100units/ml solution for injection 3ml cartridges (Wockhardt UK Ltd) Insulin soluble porcine 100unit/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,06010101,06010300,null,null,CPRD_GOLD
+35253,Insuman Comb 50 100units/ml suspension for injection 3ml cartridges (Sanofi) Insulin soluble human/Insulin isophane human 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+7350,Insulin isophane porcine 100units/ml suspension for injection 10ml vials Insulin isophane porcine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+4198,Humulin m3 100unit/ml M3 injection (Eli Lilly and Company Ltd) Insulin Soluble Human/Insulin Isophane Human 100unit/ml M3 Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+1593,Insulatard penfill 100 100iu/ml Penfill (Novo Nordisk Ltd) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+26498,Insulin zinc suspension mixed bovine and porcine 100unit/ml Injection Pork Insulin/Insulin Zinc Suspension Mixed Bovine 100unit/ml Injection ,06010102,null,null,null,CPRD_GOLD
+25479,Insulin soluble porcine 100units/ml solution for injection 3ml cartridges Insulin soluble porcine 100unit/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,06010101,06010300,null,null,CPRD_GOLD
+59533,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pens (Sigma Pharmaceuticals Plc) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+67267,Mixtard 30 InnoLet 100units/ml suspension for injection 3ml pre-filled pens (Waymade Healthcare Plc) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+41959,Penject 100unit/ml Injection device (Hypoguard Ltd) Insulin Soluble Human 100unit/ml Injection Device ,06010101,06010300,null,null,CPRD_GOLD
+10259,Insulin glargine 100units/ml solution for injection 10ml vials Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+14644,Insulin biphasic isophane human prb 20:80; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 20:80; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+67230,Lantus 100units/ml solution for injection 3ml pre-filled SoloStar pens (Waymade Healthcare Plc) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+21110,Insulin biphasic isophane human prb 50:50; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 50:50; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+60951,Insulin human 100units/ml solution for injection 10ml vials Insulin human 100unit/1ml Solution for injection Subcutaneous,06010100,null,null,null,CPRD_GOLD
+23992,Insuman Basal 100units/ml suspension for injection 3ml pre-filled OptiSet pens (Sanofi) Insulin isophane human 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+43953,Insulin lispro biphasic 25/75 100units/ml suspension for injection 10ml vials Insulin lispro/Insulin lispro protamine 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+39086,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin lispro/Insulin lispro protamine 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+71137,Hypurin Bovine Isophane 100units/ml suspension for injection 10ml vials (Waymade Healthcare Plc) Insulin isophane bovine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+74479,Insulin lispro 100units/ml solution for injection 3ml pre-filled pen (Sanofi) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+62899,Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin degludec/Liraglutide 100unit/1ml + 3.6mg/1ml Solution for injection Subcutaneous,06010102,06010212,null,null,CPRD_GOLD
+54462,Insulin biphasic isophane human emp 25:75; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 25:75; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+64460,Insulin glargine 300units/ml solution for injection 1.5ml pre-filled disposable devices Insulin glargine 300unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+7267,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nordisk Ltd) Insulin aspart/Insulin aspart protamine 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+43991,Humulin M3 KwikPen 100units/ml suspension for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+21232,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 10ml vials Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+24846,Pur-in neutral 100unit/ml Injection (C P Pharmaceuticals Ltd) Insulin Soluble Human 100unit/ml Injection ,06010101,06010300,null,null,CPRD_GOLD
+14362,Insulin lispro 100units/ml solution for injection 3ml pre-filled disposable devices Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+1842,Pork velosulin 100unit/ml Injection (Novo Nordisk Ltd) Insulin soluble porcine 100unit/1ml Solution for injection Subcutaneous/Intravenous/Intramuscular,06010101,06010300,null,null,CPRD_GOLD
+13277,Mixtard 50 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nordisk Ltd) Insulin soluble human/Insulin isophane human 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+62276,Humulin R 500units/ml solution for injection 20ml vials (Imported (United States)) Insulin human 500unit/1ml Solution for injection Subcutaneous,06010100,null,null,null,CPRD_GOLD
+7393,Insulin glargine 100units/ml solution for injection 3ml cartridges Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+14925,Insulin isophane human vial 100unit/ml Sterile suspension injection Insulin Isophane Human 100unit/ml Sterile Suspension Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+23099,Insulin aspart biphasic 30/70 100units/ml suspension for injection 3ml pre-filled disposable devices Insulin aspart/Insulin aspart protamine 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+49108,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (Necessity Supplies Ltd) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+74179,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pens (Waymade Healthcare Plc) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+28183,Hypurin Porcine Isophane 100units/ml suspension for injection 10ml vials (Wockhardt UK Ltd) Insulin isophane porcine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+79254,Insulin human 500units/ml solution for injection 3ml pre-filled disposable devices Insulin human 500unit/1ml Solution for injection Subcutaneous,06010100,null,null,null,CPRD_GOLD
+34097,Human initard 50/50 100unit/ml Injection (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100unit/ml Injection ,06010102,null,null,null,CPRD_GOLD
+76164,Humalog 100units/ml solution for injection 3ml cartridges (Sigma Pharmaceuticals Plc) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+14345,Apidra 100units/ml solution for injection 3ml cartridges (Sanofi) Insulin glulisine 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+59500,Insulin isophane human 100units/ml suspension for injection 5ml vials Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+12654,Insulin soluble human prb 100unit/ml Injection Insulin Soluble Human 100unit/ml Injection ,06010101,06010300,null,null,CPRD_GOLD
+47856,Neuphane 100unit/ml Injection (Wellcome Medical Division) Insulin isophane bovine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+14330,Insulin detemir 100units/ml solution for injection 3ml pre-filled disposable devices Insulin detemir 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+17336,Novopen 100unit/ml Injection device (Novo Nordisk Ltd) Insulin Soluble Human 100unit/ml Injection Device ,06010101,06010300,null,null,CPRD_GOLD
+6447,Insulin aspart human pyr 100 iu/ml Injection Insulin Aspart 100 iu/ml Injection ,06010101,null,null,null,CPRD_GOLD
+9503,Hypurin Bovine Protamine Zinc 100units/ml suspension for injection 10ml vials (Wockhardt UK Ltd) Insulin protamine zinc bovine 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+30686,Insulin isophane porcine 100units/ml suspension for injection 3ml cartridges Insulin isophane porcine 100unit/1ml Suspension for injection Subcutaneous/Intramuscular,06010102,null,null,null,CPRD_GOLD
+9341,Insulin biphasic isophane human prb 30:70; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 30:70; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+21590,Insulin glulisine 100units/ml solution for injection 3ml pre-filled disposable devices Insulin glulisine 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+24993,Insuman Comb 25 100units/ml suspension for injection 3ml cartridges (Sanofi) Insulin isophane human/Insulin soluble human 75unit/1ml + 25unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+31258,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml pre-filled disposable devices Insulin lispro/Insulin lispro protamine 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+76776,Suliqua 100units/ml / 33micrograms/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi) Insulin glargine/Lixisenatide 100unit/1ml + 33microgram/1ml Solution for injection Subcutaneous,06010102,06010212,null,null,CPRD_GOLD
+10243,Humalog Mix25 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Company Ltd) Insulin lispro protamine/Insulin lispro 75unit/1ml + 25unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+28096,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml cartridges Insulin soluble human/Insulin isophane human 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+61845,NovoRapid PumpCart 100units/ml solution for injection 1.6ml cartridges (Novo Nordisk Ltd) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+36513,Velosulin cartridge 100unit/ml Injection (Novo Nordisk Ltd) Insulin soluble porcine 100unit/1ml Solution for injection Subcutaneous/Intravenous/Intramuscular,06010101,06010300,null,null,CPRD_GOLD
+16129,Insulin soluble human 100units/ml solution for injection 3ml cartridges Insulin soluble human 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+60933,Humulin M3 100units/ml suspension for injection 10ml vials (Sigma Pharmaceuticals Plc) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+44480,Insuman Comb 25 100units/ml suspension for injection 3ml pre-filled SoloStar pens (Sanofi) Insulin soluble human/Insulin isophane human 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+5845,Mixtard 30 InnoLet 100units/ml suspension for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+66316,Lantus 100units/ml solution for injection 10ml vials (Mawdsley-Brooks & Company Ltd) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+5501,Insuman basal 100iu/ml Injection (Aventis Pharma) Insulin Isophane Human 100iu/ml Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+33167,Insulin biphasic isophane human crb 25:75; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 25:75; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+55517,Insulin isophane human 100units/ml suspension for injection 10ml vials Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+50633,Lantus 100units/ml solution for injection 3ml cartridges (Necessity Supplies Ltd) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+7771,Human protaphane penfill 100 100unit/ml Penfill (Novo Nordisk Ltd) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+64723,Abasaglar KwikPen 100units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+52748,Insulatard Penfill 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+46666,NovoRapid FlexTouch 100units/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+7231,Mixtard 30 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nordisk Ltd) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+64987,Abasaglar 100units/ml solution for injection 3ml cartridges (Eli Lilly and Company Ltd) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+42395,Humalog Mix25 100units/ml suspension for injection 10ml vials (Eli Lilly and Company Ltd) Insulin lispro/Insulin lispro protamine 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+3439,Penmix 10/90 Pen (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human  Pen ,06010102,null,null,null,CPRD_GOLD
+19877,Insulin aspart 100units/ml solution for injection 3ml pre-filled disposable devices Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+11055,Insulin biphasic isophane human pyr 20:80; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 20:80; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+67313,NovoRapid 100units/ml solution for injection 10ml vials (Sigma Pharmaceuticals Plc) Insulin aspart 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+74391,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pens (Sigma Pharmaceuticals Plc) Insulin lispro/Insulin lispro protamine 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+72479,Humulin R KwikPen 500units/ml solution for injection 3ml pre-filled pens (Imported (United States)) Insulin human 500unit/1ml Solution for injection Subcutaneous,06010100,null,null,null,CPRD_GOLD
+41834,Insulin zinc suspension lente 100iu/ml Injection (Celltech Pharma Europe Ltd) Insulin zinc suspension mixed bovine 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+38986,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+6057,Lantus 100iu/ml Injection (Aventis Pharma) Insulin Glargine 100iu/ml Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+70055,Fiasp Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+1840,Humulin s 100unit/ml Injection (Eli Lilly and Company Ltd) Insulin Soluble Human 100unit/ml Injection Subcutaneous Injection,06010101,06010300,null,null,CPRD_GOLD
+7228,NovoMix 30 FlexPen 100units/ml suspension for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin aspart/Insulin aspart protamine 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+74071,Humalog Mix25 KwikPen 100units/ml suspension for injection 3ml pre-filled pens (Waymade Healthcare Plc) Insulin lispro/Insulin lispro protamine 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+8895,Initard 50/50 100unit/ml Injection (Novo Nordisk Ltd) Insulin Soluble Porcine/Insulin Isophane Porcine 100unit/ml Injection ,06010102,null,null,null,CPRD_GOLD
+4715,Humalog mix 25 25/75 100units/ml Injection (Eli Lilly and Company Ltd) Insulin Lispro/Insulin Lispro Protamine 25/75 100units/ml Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+13837,Insulin biphasic isophane human prb 10:90; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 10:90; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+5255,Mixtard 10 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml Penfill Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+3396,Penmix 10/90 Penfill (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human  Penfill ,06010102,null,null,null,CPRD_GOLD
+63464,Humalog KwikPen 200units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin lispro 200unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+30819,Insuman Comb 15 100units/ml suspension for injection 3ml pre-filled OptiSet pens (Sanofi) Insulin soluble human/Insulin isophane human 15unit/1ml + 85unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+67266,Mixtard 50 Penfill 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc) Insulin soluble human/Insulin isophane human 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+28185,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml cartridges Insulin lispro protamine/Insulin lispro 75unit/1ml + 25unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+14340,Hypurin Bovine Isophane 100units/ml suspension for injection 10ml vials (Wockhardt UK Ltd) Insulin isophane bovine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+11080,Insulin isophane human prb 100iu/ml Injection Insulin Isophane Human 100iu/ml Injection ,06010102,null,null,null,CPRD_GOLD
+20422,Insuman comb 15 100iu/ml Injection (Aventis Pharma) Insulin isophane human/Insulin soluble human 85unit/1ml + 15unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+15710,Insulin soluble human emp 100unit/ml Injection Insulin Soluble Human 100unit/ml Injection ,06010101,06010300,null,null,CPRD_GOLD
+21395,Insulin biphasic isophane human pyr 40:60; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 40:60; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+56495,Lantus 100units/ml solution for injection 3ml pre-filled OptiSet pens (Waymade Healthcare Plc) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+21374,Insulin biphasic isophane human prb 40:60; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 40:60; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+74845,Humulin I 100units/ml suspension for injection 10ml vials (Waymade Healthcare Plc) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+1805,Mixtard 30/70 100unit/ml Injection (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100unit/ml Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+36146,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml cartridges Insulin lispro/Insulin lispro protamine 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+76533,Insulin lispro Sanofi 100units/ml solution for injection 10ml vials (Sanofi) Insulin lispro 100unit/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+74392,Apidra 100units/ml solution for injection 3ml pre-filled SoloStar pens (Lexon (UK) Ltd) Insulin glulisine 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+14270,Humalog Mix25 Pen 100units/ml suspension for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin lispro/Insulin lispro protamine 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+45158,Insuman Comb 15 100units/ml suspension for injection 3ml cartridges (Sanofi) Insulin soluble human/Insulin isophane human 15unit/1ml + 85unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+23993,Insuman Rapid 100units/ml solution for injection 3ml pre-filled OptiSet pens (Sanofi) Insulin soluble human 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+74388,Humalog Mix50 100units/ml suspension for injection 3ml cartridges (Sigma Pharmaceuticals Plc) Insulin lispro/Insulin lispro protamine 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+22983,Insuman Rapid 100units/ml solution for injection 3ml cartridges (Sanofi) Insulin soluble human 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+7237,Lantus 100units/ml solution for injection 3ml pre-filled OptiSet pens (Sanofi) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+5021,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+7300,Mixtard 30 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+79358,Insulin biphasic isophane porcine 100 units/ml Injection Insulin Soluble Porcine/Insulin Isophane Porcine 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+12299,Semitard mc 100unit/ml Injection (Novo Nordisk Ltd) Pork Insulin 100unit/ml Injection ,06010102,null,null,null,CPRD_GOLD
+76777,Suliqua 100units/ml / 50micrograms/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi) Insulin glargine/Lixisenatide 100unit/1ml + 50microgram/1ml Solution for injection Subcutaneous,06010102,06010212,null,null,CPRD_GOLD
+80678,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pens (CST Pharma Ltd) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+21235,Humulin S 100units/ml solution for injection 10ml vials (Eli Lilly and Company Ltd) Insulin soluble human 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+7793,HumaJect M3 Pen 100units/ml suspension for injection (Eli Lilly and Company Ltd) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+71361,Humulin I 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+74842,Humulin M3 100units/ml suspension for injection 3ml cartridges (Mawdsley-Brooks & Company Ltd) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+26621,Insulin soluble human crb 100iu/ml Injection Insulin Soluble Human 100iu/ml Injection ,06010101,06010300,null,null,CPRD_GOLD
+7772,Human protaphane 100unit/ml Injection (Novo Nordisk Ltd) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+1595,Insulatard NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd) Insulin isophane human 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+1886,Insulatard 100iu/ml GE injection (Novo Nordisk Ltd) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+24795,Insulin aspart biphasic 30/70 100units/ml suspension for injection 3ml cartridges Insulin aspart/Insulin aspart protamine 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+24593,Neutral insulin bovine 100unit/ml Injection Insulin Soluble Bovine 100unit/ml Injection ,06010101,06010300,null,null,CPRD_GOLD
+7402,Lantus 100units/ml solution for injection 10ml vials (Sanofi) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+74020,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges (Mawdsley-Brooks & Company Ltd) Insulin aspart/Insulin aspart protamine 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+76163,Lantus 100units/ml solution for injection 3ml cartridges (Sigma Pharmaceuticals Plc) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+25133,Insuman Comb 25 100units/ml suspension for injection 3ml pre-filled OptiSet pens (Sanofi) Insulin soluble human/Insulin isophane human 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+30209,Actrapid mc 100unit/ml Injection (Arun Products Ltd) Insulin soluble porcine 100unit/1ml Solution for injection Subcutaneous/Intravenous/Intramuscular,06010101,06010300,null,null,CPRD_GOLD
+10184,Insulin detemir 100 iu/ml Solution for injection Insulin Detemir 100 iu/ml Solution For Injection ,06010102,null,null,null,CPRD_GOLD
+12297,Hypurin bovine neutral 100unit/ml Injection (C P Pharmaceuticals Ltd) Insulin Soluble Bovine 100unit/ml Injection Subcutaneous Injection,06010101,06010300,null,null,CPRD_GOLD
+71118,Insulatard 100units/ml suspension for injection 10ml vials (Waymade Healthcare Plc) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+12638,Insulin soluble human pyr 100unit/ml Injection Insulin Soluble Human 100unit/ml Injection ,06010101,06010300,null,null,CPRD_GOLD
+46001,Insuman Basal 100units/ml suspension for injection 3ml pre-filled SoloStar pens (Sanofi) Insulin isophane human 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+73282,Humalog Junior KwikPen 100units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+36920,Apidra 100units/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi) Insulin glulisine 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+77284,Insulin isophane human 100iu/ml Injection Insulin Isophane Human 100iu/ml Injection ,06010102,null,null,null,CPRD_GOLD
+13516,Hypurin bovine isophane 100unit/ml Injection (C P Pharmaceuticals Ltd) Insulin isophane bovine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+5891,Insulatard FlexPen 100units/ml suspension for injection (Novo Nordisk Ltd) Insulin isophane human 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+17712,Hypurin Bovine Lente 100units/ml suspension for injection 10ml vials (Wockhardt UK Ltd) Insulin zinc suspension mixed bovine 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+14357,Humulin I 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Company Ltd) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+13416,Insulin biphasic 100 units/ml Injection Insulin Soluble Porcine/Insulin 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+71340,Mixtard 30 Penfill 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+14933,Hypurin Porcine Isophane 100units/ml suspension for injection 3ml cartridges (Wockhardt UK Ltd) Insulin isophane porcine 100unit/1ml Suspension for injection Subcutaneous/Intramuscular,06010102,null,null,null,CPRD_GOLD
+10264,Humalog Pen 100units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin lispro 100unit/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+12035,Insulin zinc mixed bovine 100units/ml suspension for injection 10ml vials Insulin zinc suspension mixed bovine 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+14944,Humulin S 100units/ml solution for injection 3ml cartridges (Eli Lilly and Company Ltd) Insulin soluble human 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+15961,Insulin isophane human crb 100iu/ml Injection Insulin Isophane Human 100iu/ml Injection ,06010102,null,null,null,CPRD_GOLD
+38422,Isophane 100iu/ml Injection (Celltech Pharma Europe Ltd) Insulin isophane bovine 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+42954,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 5ml vials Insulin soluble human/Insulin isophane human 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+9521,Pork Actrapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd) Insulin soluble porcine 100unit/1ml Solution for injection Subcutaneous/Intravenous/Intramuscular,06010101,null,null,null,CPRD_GOLD
+49831,Lantus 100units/ml solution for injection 3ml pre-filled SoloStar pens (Necessity Supplies Ltd) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+4760,Humulin i 100unit/ml Injection (Eli Lilly and Company Ltd) Insulin Isophane Human 100unit/ml Injection Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+10915,Humaject m1 100iu/ml M1 pen (Eli Lilly and Company Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml M1 Pen Subcutaneous Injection,06010102,null,null,null,CPRD_GOLD
+10572,Insulin soluble bovine 100unit/ml Injection Insulin Soluble Bovine 100unit/ml Injection ,06010101,06010300,null,null,CPRD_GOLD
+67231,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pens (Dowelhurst Ltd) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+27614,Penmix 30/70 100iu/ml Injection (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml Injection ,06010102,null,null,null,CPRD_GOLD
+63562,Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices Insulin degludec/Liraglutide 100unit/1ml + 3.6mg/1ml Solution for injection Subcutaneous,06010102,06010212,null,null,CPRD_GOLD
+27402,Insulin soluble human 100units/ml solution for injection 10ml vials Insulin soluble human 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+21347,Penmix 40/60 100iu/ml Injection (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human 100iu/ml Injection ,06010102,null,null,null,CPRD_GOLD
+56502,Actrapid Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd) Insulin soluble human 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+19491,Apidra 100units/ml solution for injection 10ml vials (Sanofi) Insulin glulisine 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+25812,Insulin isophane human 100units/ml suspension for injection 3ml pre-filled disposable devices Insulin isophane human 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+67429,Insulin human 100units/ml solution for injection 3.15ml cartridges Insulin human 100unit/1ml Solution for injection Subcutaneous,06010100,null,null,null,CPRD_GOLD
+77059,Pork Actrapid 100units/ml solution for injection 10ml vials (Waymade Healthcare Plc) Insulin soluble porcine 100unit/1ml Solution for injection Subcutaneous/Intravenous/Intramuscular,06010101,null,null,null,CPRD_GOLD
+68031,Humalog Mix25 KwikPen 100units/ml suspension for injection 3ml pre-filled pens (Sigma Pharmaceuticals Plc) Insulin lispro/Insulin lispro protamine 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+14299,Insulin glulisine 100units/ml solution for injection 3ml cartridges Insulin glulisine 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+57620,Humulin M3 100units/ml suspension for injection 10ml vials (Mawdsley-Brooks & Company Ltd) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+69823,Fiasp FlexTouch 100units/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin aspart 100unit/1ml Solution for injection Subcutaneous,06010101,null,null,null,CPRD_GOLD
+27177,Insulin biphasic lispro human prb 50:50; 100 units/ml Injection Insulin Lispro/Insulin Lispro Protamine 50:50; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+76728,Semglee 100units/ml solution for injection 3ml pre-filled pens (Mylan) Insulin glargine 100unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+19513,Humulin M3 100units/ml suspension for injection 10ml vials (Eli Lilly and Company Ltd) Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Subcutaneous,06010151,null,null,null,CPRD_GOLD
+47360,Neutral insulin 100unit/ml Injection (Celltech Pharma Europe Ltd) Insulin Soluble Bovine 100unit/ml Injection Subcutaneous Injection,06010101,06010300,null,null,CPRD_GOLD
+2220,Penmix 20/80 Pen (Novo Nordisk Ltd) Insulin Soluble Human/Insulin Isophane Human  Pen ,06010102,null,null,null,CPRD_GOLD
+77794,Toujeo 300units/ml solution for injection 3ml pre-filled DoubleStar pens (Sanofi) Insulin glargine 300unit/1ml Solution for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+39006,Humalog Mix25 KwikPen 100units/ml suspension for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin lispro/Insulin lispro protamine 25unit/1ml + 75unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+76975,Humalog 100units/ml solution for injection 10ml vials (Sigma Pharmaceuticals Plc) Insulin lispro 100unit/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+10229,Humulin I Pen 100units/ml suspension for injection 3ml pre-filled pens (Eli Lilly and Company Ltd) Insulin isophane human 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+29837,Insulin biphasic isophane human prb 25:75; 100 units/ml Injection Insulin Soluble Human/Insulin Isophane Human 25:75; 100 units/ml Injection ,06010102,null,null,null,CPRD_GOLD
+69715,Fiasp 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd) Insulin aspart 100unit/1ml Solution for injection Intravenous/Subcutaneous,06010101,null,null,null,CPRD_GOLD
+14290,Insulatard Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nordisk Ltd) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+76162,Humulin I 100units/ml suspension for injection 3ml cartridges (Sigma Pharmaceuticals Plc) Insulin isophane human 100unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+4790,Mixtard 50 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd) Insulin soluble human/Insulin isophane human 50unit/1ml + 50unit/1ml Suspension for injection Subcutaneous,06010102,null,null,null,CPRD_GOLD
+10208,Insulatard InnoLet 100units/ml suspension for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin isophane human 100unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010102,null,null,null,CPRD_GOLD
+19878,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml pre-filled disposable devices Insulin soluble human/Insulin isophane human 30unit/1ml + 70unit/1ml Suspension for injection Intramuscular/Subcutaneous,06010151,null,null,null,CPRD_GOLD
+81368,Insulin glargine 300units/ml solution for injection 3ml pre-filled disposable devices ,06010102,null,null,null,CPRD_GOLD
+82124,Lyumjev 100units/ml solution for injection 3ml cartridges (Eli Lilly and Company Ltd)Insulin lispro100unit/1mlSolution for injectionIntravenous/Intramuscular/Subcutaneous ,06010101,null,null,null,CPRD_GOLD
+82172,Lyumjev KwikPen 100units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd)Insulin lispro100unit/1mlSolution for injectionIntravenous/Intramuscular/Subcutaneous ,06010101,null,null,null,CPRD_GOLD
+82473,Pork Mixtard 30 100units/ml suspension for injection 10ml vials (Waymade Healthcare Plc)Insulin soluble porcine/Insulin isophane porcine30unit/1ml + 70unit/1mlSuspension for injectionIntramuscular/Subcutaneous ,06010151,null,null,null,CPRD_GOLD
+82475,NovoMix 30 FlexPen 100units/ml suspension for injection 3ml pre-filled pens (Waymade Healthcare Plc)Insulin aspart/Insulin aspart protamine30unit/1ml + 70unit/1mlSuspension for injectionSubcutaneous ,06010151,null,null,null,CPRD_GOLD
+82533,Humulin S 100units/ml solution for injection 10ml vials (Waymade Healthcare Plc)Insulin soluble human100unit/1mlSolution for injectionIntravenous/Subcutaneous ,06010101,null,null,null,CPRD_GOLD
+82595,Lantus 100units/ml solution for injection 10ml vials (Waymade Healthcare Plc)Insulin glargine100unit/1mlSolution for injectionSubcutaneous ,06010102,null,null,null,CPRD_GOLD
+82816,Lyumjev 100units/ml solution for injection 10ml vials (Eli Lilly and Company Ltd)Insulin lispro100unit/1mlSolution for injectionIntravenous/Intramuscular/Subcutaneous ,06010101,null,null,null,CPRD_GOLD

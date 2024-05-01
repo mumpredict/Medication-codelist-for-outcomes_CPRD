@@ -1,0 +1,6 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+71020,Acarbose 50mg tablets (Actavis UK Ltd) Acarbose 50mg Tablet Oral,06010203,null,null,null,CPRD_GOLD
+479,Acarbose 50mg tablets Acarbose 50mg Tablet Oral,06010203,null,null,null,CPRD_GOLD
+9105,Glucobay 100mg tablets (Bayer Plc) Acarbose 100mg Tablet Oral,06010203,null,null,null,CPRD_GOLD
+5174,Acarbose 100mg tablets Acarbose 100mg Tablet Oral,06010203,null,null,null,CPRD_GOLD
+5621,Glucobay 50mg tablets (Bayer Plc) Acarbose 50mg Tablet Oral,06010203,null,null,null,CPRD_GOLD

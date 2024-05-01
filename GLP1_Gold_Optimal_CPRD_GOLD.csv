@@ -1,0 +1,42 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+63823,Dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable devices Dulaglutide 3mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+80810,Bydureon BCise 2mg/0.85ml prolonged-release suspension for injection pre-filled pens (AstraZeneca UK Ltd) Exenatide 2.353mg/1ml Prolonged-release suspension for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+46469,Bydureon 2mg powder and solvent for prolonged-release suspension for injection vials (AstraZeneca UK Ltd) Exenatide 2mg Powder and solvent for prolonged-release suspension for inj Subcutaneous,06010206,null,null,null,CPRD_GOLD
+69548,Saxenda 6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Liraglutide 6mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+62661,Bydureon 2mg powder and solvent for prolonged-release suspension for injection pre-filled pens (AstraZeneca UK Ltd) Exenatide 2mg Powder and solvent for prolonged-release suspension for inj Subcutaneous,06010206,null,null,null,CPRD_GOLD
+55459,Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices Lixisenatide 50microgram/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+75397,Semaglutide 0.25mg/0.19ml solution for injection 1.5ml pre-filled disposable device Semaglutide 1.34mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+75740,Ozempic 0.25mg/0.19ml solution for injection 1.5ml pre-filled pens (Novo Nordisk Ltd) Semaglutide 1.34mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+35144,Byetta 5micrograms/0.02ml solution for injection 1.2ml pre-filled pens (AstraZeneca UK Ltd) Exenatide 250microgram/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+40693,Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices Liraglutide 6mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+35150,Byetta 10micrograms/0.04ml solution for injection 2.4ml pre-filled pens (AstraZeneca UK Ltd) Exenatide 250microgram/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+76624,Semaglutide 1mg/0.74ml solution for injection 3ml pre-filled disposable device Semaglutide 1.34mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+69947,Albiglutide 30mg powder and solvent for solution for injection pre-filled disposable devices Albiglutide 30mg Powder and solvent for solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+40642,Victoza 6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Liraglutide 6mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+76021,Ozempic 1mg/0.74ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Semaglutide 1.34mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+62904,Exenatide 2mg powder and solvent for prolonged-release suspension for injection pre-filled disposable devices Exenatide 2mg Powder and solvent for prolonged-release suspension for inj Subcutaneous,06010206,null,null,null,CPRD_GOLD
+55728,Lyxumia 10micrograms/0.2ml solution for injection 3ml pre-filled pens (Sanofi) Lixisenatide 50microgram/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+62899,Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd) Insulin degludec/Liraglutide 100unit/1ml + 3.6mg/1ml Solution for injection Subcutaneous,06010102,06010212,null,null,CPRD_GOLD
+55767,Lyxumia 10micrograms/20micrograms treatment initiation pack (Sanofi)   Not applicable Route of administration not applicable,06010206,null,null,null,CPRD_GOLD
+55729,Lyxumia 20micrograms/0.2ml solution for injection 3ml pre-filled pens (Sanofi) Lixisenatide 100microgram/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+76776,Suliqua 100units/ml / 33micrograms/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi) Insulin glargine/Lixisenatide 100unit/1ml + 33microgram/1ml Solution for injection Subcutaneous,06010102,06010212,null,null,CPRD_GOLD
+63336,Trulicity 1.5mg/0.5ml solution for injection pre-filled pens (Eli Lilly and Company Ltd) Dulaglutide 3mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+35251,Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices Exenatide 250microgram/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+75938,Ozempic 0.5mg/0.37ml solution for injection 1.5ml pre-filled pens (Novo Nordisk Ltd) Semaglutide 1.34mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+35149,Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices Exenatide 250microgram/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+46458,Exenatide 2mg powder and solvent for prolonged-release suspension for injection vials Exenatide 2mg Powder and solvent for prolonged-release suspension for inj Subcutaneous,06010206,null,null,null,CPRD_GOLD
+55723,Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices and Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices   Not applicable Route of administration not applicable,06010206,null,null,null,CPRD_GOLD
+76777,Suliqua 100units/ml / 50micrograms/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi) Insulin glargine/Lixisenatide 100unit/1ml + 50microgram/1ml Solution for injection Subcutaneous,06010102,06010212,null,null,CPRD_GOLD
+63401,Trulicity 0.75mg/0.5ml solution for injection pre-filled pens (Eli Lilly and Company Ltd) Dulaglutide 1.5mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+63785,Dulaglutide 0.75mg/0.5ml solution for injection pre-filled disposable devices Dulaglutide 1.5mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+55413,Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices Lixisenatide 100microgram/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+63562,Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices Insulin degludec/Liraglutide 100unit/1ml + 3.6mg/1ml Solution for injection Subcutaneous,06010102,06010212,null,null,CPRD_GOLD
+64622,Bydureon 2mg powder and solvent for prolonged-release suspension for injection vials (Lexon (UK) Ltd) Exenatide 2mg Powder and solvent for prolonged-release suspension for inj Subcutaneous,06010206,null,null,null,CPRD_GOLD
+75987,Semaglutide 0.5mg/0.37ml solution for injection 1.5ml pre-filled disposable device Semaglutide 1.34mg/1ml Solution for injection Subcutaneous,06010206,null,null,null,CPRD_GOLD
+80987,Exenatide 2mg/0.85ml prolonged-release suspension for injection pre-filled disposable devicesExenatide2.353mg/1mlProlonged-release suspension for injectionSubcutaneous ,06010206,null,null,null,CPRD_GOLD
+81073,Victoza 6mg/ml solution for injection 3ml pre-filled pens (Mawdsley-Brooks & Company Ltd)Liraglutide6mg/1mlSolution for injectionSubcutaneous ,06010206,null,null,null,CPRD_GOLD
+82174,Semaglutide 3mg tabletsSemaglutide3mgTabletOral ,06010206,null,null,null,CPRD_GOLD
+82258,Rybelsus 3mg tablets (Novo Nordisk Ltd)Semaglutide3mgTabletOral ,06010206,null,null,null,CPRD_GOLD
+82697,Rybelsus 7mg tablets (Novo Nordisk Ltd)Semaglutide7mgTabletOral ,06010206,null,null,null,CPRD_GOLD
+82709,Semaglutide 7mg tabletsSemaglutide7mgTabletOral ,06010206,null,null,null,CPRD_GOLD
+82909,Semaglutide 14mg tabletsSemaglutide14mgTabletOral ,06010206,null,null,null,CPRD_GOLD
